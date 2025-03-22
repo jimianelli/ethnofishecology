@@ -1,5 +1,5 @@
 # Ethnofishecology
-   - **What is Ethnofishecology?** Clearly articulate the definition and scope of the field. For example:
+   - **What is Ethnofishecology?** 
      - The study of the relationships between human cultures and fisheries, including traditional knowledge, practices, and technologies.
      - The ecological and cultural impacts of fishing practices across time and space.
      - The interplay between indigenous, artisanal, and industrial fishing methods.
