@@ -1,0 +1,12 @@
+project:
+  type: book
+
+book:
+  title: "Ethnofishecology"
+  chapters:
+    - index.md
+    - chapter1_foundations.md
+    - chapter2_emergence.md
+    - chapter3_integration.md
+    - chapter4_modern_management.md
+    - chapter5_future.md
