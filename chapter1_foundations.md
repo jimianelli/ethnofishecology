@@ -1,4 +1,4 @@
-# Chapter 1: Foundations of Ethnofishecology
+# Foundations of Ethnofishecology
 
 ## Introduction
 Ethnofishecology examines the relationships between human cultures and fish.  It draws on multiple disciplines – anthropology, ichthyology, economics and marine ecology – to understand how people know and use fish across time and place ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).
@@ -13,5 +13,5 @@ Ethnofishecology examines the relationships between human cultures and fish.  It
 Understanding the foundations of ethnofishecology highlights how traditional practices inform sustainable management and how cultural heritage is tied to aquatic ecosystems.
 
 ## References
-1. **Ethnoichthyology** – definition and scope of the field ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).  
+1. **Ethnoichthyology** – definition and scope of the field ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).
 2. **Svanberg & Locker (2020)** – review of freshwater fisheries and cultural significance in Europe ([ethnobiomed.biomedcentral.com](https://ethnobiomed.biomedcentral.com/articles/10.1186/s13002-020-00410-3)).
