@@ -1,0 +1,19 @@
+# Chapter 5: Future Directions in Ethnofishecology  
+  
+## Introduction  
+As global fisheries face unprecedented challenges from climate change, shifting species distributions, social inequities and technological advances, ethnofishecology must evolve to address emerging issues.  This chapter outlines potential future directions and research questions that will shape the field in coming decades.  
+  
+## Key themes  
+- **Climate change and shifting stocks** – Future ethnofishecology will need to understand how climate‑driven shifts in species distributions, ocean conditions and extreme events affect fishing communities.  Integrating indigenous knowledge with climate models can improve adaptation strategies.  
+- **Social justice and equity** – Research should explore how fisheries management decisions impact different groups, including indigenous peoples, small‑scale fishers, women and youth.  Ensuring equitable access to resources and decision‑making processes will be central to sustainable fisheries.  
+- **Participatory modelling and co‑design** – Emerging tools in participatory modelling and citizen science allow communities to co‑design management scenarios and monitoring programmes.  Ethnofishecology can facilitate these efforts by bridging scientific models with local knowledge.  
+- **Data integration and technological innovations** – Advances in remote sensing, genomics, artificial intelligence and digital platforms offer new ways to collect and analyse data.  Future ethnofishecology should leverage these tools to integrate socio‑economic, cultural and ecological information in real time.  
+- **Urban and recreational fisheries** – As urbanisation increases, recreational and urban fisheries become important for cultural identity and wellbeing.  Ethnofishecology can expand to study these contexts and explore how fishing practices evolve in metropolitan areas.  
+  
+## Conclusion  
+The future of ethnofishecology lies in its ability to adapt to rapidly changing ecological and social conditions while maintaining a focus on human–fish relationships.  By embracing interdisciplinary methods, participatory approaches and new technologies, the field can contribute to sustainable fisheries and resilient communities in a changing world.  
+  
+## References  
+[1] ANU study on human ecology and food security emphasising collaborative processes and Payments for Environmental Services ([digitalcollections.anu.edu.au](https://digitalcollections.anu.edu.au/items/b3f4c31e-7690-4678-b120-8c3dc5374c8f#:~:text=Human%20Ecology%20and%20Food%20Security%3A,We%20evaluate%20positive%20drivers%20to)).  
+[2] NOAA HI‑EBFM strategy outlining interdisciplinary research needs ([www.fisheries.noaa.gov](https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025)).  
+[3] European freshwater fisheries review calling for research on historical and cultural heritage ([ethnobiomed.biomedcentral.com](https://ethnobiomed.biomedcentral.com/articles/10.1186/s13002-020-00410-3)). 
