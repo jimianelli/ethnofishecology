@@ -1,17 +1,28 @@
 # Foundations of Ethnofishecology
 
 ## Introduction
-Ethnofishecology examines the relationships between human cultures and fish.  It draws on multiple disciplines – anthropology, ichthyology, economics and marine ecology – to understand how people know and use fish across time and place ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).
+Ethnofishecology examines the relationships between human cultures and fisheries and how those relationships shape ecological outcomes. It draws on anthropology, fisheries science, and marine ecology to explain how people know, use, and govern fish across time and place.
+
+## Definition and scope
+Ethnofishecology is the study of how human cultures shape fishing practices and how those practices, in turn, shape ecological outcomes. It integrates cultural knowledge, historical practice, and fisheries science to explain selectivity, effort distribution, and ecological impact across time and space.
+
+Key scope elements:
+- Traditional knowledge, practices, and technologies as structured evidence.
+- Ecological and cultural impacts of fishing practices across time and space.
+- Interplay among indigenous, artisanal, and industrial fishing methods.
+- Boundaries with related fields: ethnobiology (broader human–biota relationships), fisheries anthropology (social systems), and fisheries science (population dynamics).
+
+## Origin and inspiration
+Ethnomusicology provides a useful analogy: it formalized the cultural context of music as a legitimate field of study. Ethnofishecology similarly treats the cultural, historical, and ecological dimensions of fishing as essential components of fisheries research.
 
 ## Traditional knowledge and early practices
 - **Local knowledge and taxonomy**: early fishing communities developed folk taxonomies and behavioural knowledge about fish that guided subsistence and small‑scale fisheries.
 - **Tools and techniques**: handlines, nets, traps and spears were adapted to local environments and resource availability.
-- **Ecological and cultural impacts**: fishing practices influenced settlement patterns, livelihoods, language and material culture.  The decline of fisheries, such as the North Atlantic cod, demonstrates how ignoring local knowledge can lead to collapse ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).
-- **Global context**: European freshwater fisheries illustrate the long history of artisanal fishing and the cultural importance of fish in diet and folklore ([ethnobiomed.biomedcentral.com](https://ethnobiomed.biomedcentral.com/articles/10.1186/s13002-020-00410-3)).
+- **Ecological and cultural impacts**: fishing practices influenced settlement patterns, livelihoods, language, and material culture. Ignoring local knowledge can destabilize fisheries when ecological change outpaces management response.
+- **Global context**: artisanal fisheries show a long history of culturally embedded fishing practices and the role of fish in diet, identity, and folklore.
 
 ## Significance
 Understanding the foundations of ethnofishecology highlights how traditional practices inform sustainable management and how cultural heritage is tied to aquatic ecosystems.
 
 ## References
-1. **Ethnoichthyology** – definition and scope of the field ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).
-2. **Svanberg & Locker (2020)** – review of freshwater fisheries and cultural significance in Europe ([ethnobiomed.biomedcentral.com](https://ethnobiomed.biomedcentral.com/articles/10.1186/s13002-020-00410-3)).
+(References to be added)
