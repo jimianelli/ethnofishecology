@@ -3,6 +3,11 @@
 ## Introduction  
 As global fisheries face unprecedented challenges from climate change, shifting species distributions, social inequities and technological advances, ethnofishecology must evolve to address emerging issues.  This chapter outlines potential future directions and research questions that will shape the field in coming decades.  
   
+## Methods and evidence (to be developed)
+- Horizon scanning and foresight methods
+- Participatory modelling and co‑design
+- Mixed‑methods synthesis across regions
+
 ## Key themes  
 - **Climate change and shifting stocks** – Future ethnofishecology will need to understand how climate‑driven shifts in species distributions, ocean conditions and extreme events affect fishing communities.  Integrating indigenous knowledge with climate models can improve adaptation strategies.  
 - **Social justice and equity** – Research should explore how fisheries management decisions impact different groups, including indigenous peoples, small‑scale fishers, women and youth.  Ensuring equitable access to resources and decision‑making processes will be central to sustainable fisheries.  

@@ -3,6 +3,11 @@
 ## Introduction  
 In the 2010s and beyond, ethnofishecology has increasingly intersected with ecosystem‑based fisheries management (EBFM) and human‑integrated approaches.  Agencies such as NOAA developed strategies that recognise humans as part of the ecosystem and call for interdisciplinary science to balance conservation, economic profitability, food production, jobs and human wellbeing ([www.fisheries.noaa.gov](https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025)).  This period emphasises trade‑offs and the integration of social, economic and ecological data into decision‑making ([www.fisheries.noaa.gov](https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025)).  
   
+## Methods and evidence (to be developed)
+- Policy analysis and governance mapping
+- Integration of social indicators with stock assessment outputs
+- Scenario evaluation with stakeholder input
+
 ## Key themes  
 - **Human‑Integrated Ecosystem‑Based Fishery Management (HI‑EBFM)** – NOAA’s research strategy advocates for managing fisheries as coupled socio‑ecological systems.  It highlights the need for interdisciplinary research that integrates ecological models, economics, human dimensions and policy to evaluate trade‑offs among conservation, industry profitability and community wellbeing ([www.fisheries.noaa.gov](https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025)).  
 - **Socio‑ecological resilience and adaptive management** – Contemporary management emphasises building resilience through adaptive governance, stakeholder engagement and monitoring of ecological and social indicators.  Ethnofishecology contributes by providing insights into how communities perceive and respond to environmental change.  

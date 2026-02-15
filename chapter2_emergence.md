@@ -3,6 +3,11 @@
 ## Introduction  
 Ethnofishecology began to take shape during the 1960s–1980s as scholars in maritime anthropology and ethnobiology started to study fishing communities in their own right.  Early research recognised that local knowledge and cultural practices were central to fisheries management and that ethnobiological methods could inform conservation and resource use ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).  
   
+## Methods and evidence (to be developed)
+- Comparative historical synthesis
+- Case‑study triangulation
+- Archival and oral‑history sources
+
 ## Key themes  
 - **Formal recognition of ethnoichthyology** – The term “ethnoichthyology” emerged to describe the study of human knowledge of fish and fish‑related practices across cultures ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ethnoichthyology#:~:text=free%20encyclopedia%20Study%20of%20human,be%20aware%20of%20other%20cultures)).  Early scholars drew on anthropology, ichthyology and economics to understand how fishing communities classified species, developed gear and organised labour.  
 - **Maritime anthropology and human ecology** – Anthropologists studied small‑scale fishing communities as coupled socio‑ecological systems.  Case studies from the North Atlantic, Pacific and tropics highlighted the importance of traditional ecological knowledge in determining fishing strategies, seasonal movements and community institutions.  

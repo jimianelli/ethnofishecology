@@ -3,6 +3,11 @@
 ## Introduction  
 During the 1990s–2000s ethnofishecology began integrating with human ecology and ethnoecology, recognising that fisheries are dynamic socio‑ecological systems.  Researchers developed frameworks to link cultural practices, ecological feedbacks and management institutions.  These approaches emphasised the role of collaborative processes and local ecological knowledge in sustainable fisheries ([digitalcollections.anu.edu.au](https://digitalcollections.anu.edu.au/items/b3f4c31e-7690-4678-b120-8c3dc5374c8f#:~:text=Human%20Ecology%20and%20Food%20Security%3A,We%20evaluate%20positive%20drivers%20to)).  
   
+## Methods and evidence (to be developed)
+- Ethnographic methods linked to ecological data
+- Participatory mapping and co‑production
+- Mixed‑methods validation
+
 ## Key themes  
 - **Human ecological models and cultural adaptation** – Scholars applied human ecological models to describe how fishing communities adapt to environmental and social changes.  The Cultural Adaptation Template is one example that models feedback among ecological information, social organisation and food security ([digitalcollections.anu.edu.au](https://digitalcollections.anu.edu.au/items/b3f4c31e-7690-4678-b120-8c3dc5374c8f#:~:text=Human%20Ecology%20and%20Food%20Security%3A,We%20evaluate%20positive%20drivers%20to)).  
 - **Local ecological knowledge and co‑management** – Studies documented how indigenous and local communities possess detailed knowledge about fish habitats, migration, and seasonal patterns.  Including this knowledge in co‑management arrangements improved compliance and resource stewardship ([digitalcollections.anu.edu.au](https://digitalcollections.anu.edu.au/items/b3f4c31e-7690-4678-b120-8c3dc5374c8f#:~:text=Human%20Ecology%20and%20Food%20Security%3A,We%20evaluate%20positive%20drivers%20to)).  
