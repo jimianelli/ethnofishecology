@@ -6,6 +6,12 @@ title: "Integration with Human Ecology and Ethnoecology (1990s–2000s)"
 
 During the 1990s–2000s ethnofishecology began integrating with human ecology and ethnoecology, recognising that fisheries are dynamic socio-ecological systems. Researchers developed frameworks to link cultural practices, ecological feedbacks and management institutions. These approaches emphasised the role of collaborative processes and local ecological knowledge in sustainable fisheries.
 
+## Methods and Evidence (to be developed)
+
+- Ethnographic methods linked to ecological data
+- Participatory mapping and co-production
+- Mixed-methods validation
+
 ## Key Themes
 
 - **Human ecological models and cultural adaptation** — Scholars applied human ecological models to describe how fishing communities adapt to environmental and social changes. The Cultural Adaptation Template is one example that models feedback among ecological information, social organisation and food security.

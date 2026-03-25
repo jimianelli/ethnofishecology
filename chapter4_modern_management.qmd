@@ -6,6 +6,12 @@ title: "Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010sâ
 
 In the 2010s and beyond, ethnofishecology has increasingly intersected with ecosystem-based fisheries management (EBFM) and human-integrated approaches. Agencies such as NOAA developed strategies that recognise humans as part of the ecosystem and call for interdisciplinary science to balance conservation, economic profitability, food production, jobs and human wellbeing. This period emphasises trade-offs and the integration of social, economic and ecological data into decision-making.
 
+## Methods and Evidence (to be developed)
+
+- Policy analysis and governance mapping
+- Integration of social indicators with stock assessment outputs
+- Scenario evaluation with stakeholder input
+
 ## Key Themes
 
 - **Human-Integrated Ecosystem-Based Fishery Management (HI-EBFM)** â€” NOAA's research strategy advocates for managing fisheries as coupled socio-ecological systems. It highlights the need for interdisciplinary research that integrates ecological models, economics, human dimensions and policy to evaluate trade-offs among conservation, industry profitability and community wellbeing.
