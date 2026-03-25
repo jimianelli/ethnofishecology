@@ -4,25 +4,24 @@ title: "Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s�
 
 ## Introduction
 
-In the 2010s and beyond, ethnofishecology has increasingly intersected with ecosystem-based fisheries management (EBFM) and human-integrated approaches. Agencies such as NOAA developed strategies that recognise humans as part of the ecosystem and call for interdisciplinary science to balance conservation, economic profitability, food production, jobs and human wellbeing. This period emphasises trade-offs and the integration of social, economic and ecological data into decision-making.
+In the 2010s and beyond, ethnofishecology has increasingly intersected with ecosystem-based fisheries management (EBFM) and explicitly human-integrated approaches. Agencies such as NOAA now frame humans as part of the ecosystem and call for interdisciplinary science that can evaluate conservation, economic profitability, food production, jobs, and human well-being together rather than sequentially. This period emphasizes trade-offs, scenario analysis, and the integration of social, economic, and ecological data into decision-making.
 
-## Methods and Evidence (to be developed)
+## Methods and Evidence
 
-- Policy analysis and governance mapping
-- Integration of social indicators with stock assessment outputs
-- Scenario evaluation with stakeholder input
+The modern management literature is methodologically diverse. It combines policy analysis, governance mapping, social and economic indicators, stock assessment outputs, and participatory scenario evaluation. Institutional strategies such as NOAA's HI-EBFM plan matter here because they formalize the expectation that economics, human dimensions, and ecology should be coupled in routine fisheries science rather than treated as post hoc add-ons (NOAA Fisheries 2021).
 
 ## Key Themes
 
-- **Human-Integrated Ecosystem-Based Fishery Management (HI-EBFM)** — NOAA's research strategy advocates for managing fisheries as coupled socio-ecological systems. It highlights the need for interdisciplinary research that integrates ecological models, economics, human dimensions and policy to evaluate trade-offs among conservation, industry profitability and community wellbeing.
-- **Socio-ecological resilience and adaptive management** — Contemporary management emphasises building resilience through adaptive governance, stakeholder engagement and monitoring of ecological and social indicators. Ethnofishecology contributes by providing insights into how communities perceive and respond to environmental change.
-- **Interdisciplinary data integration** — Modern approaches combine biological data with social surveys, economic metrics and cultural indicators. This integration enables managers to evaluate how policies affect fish populations, industry profits and human wellbeing simultaneously.
-- **Trade-off analysis and scenario planning** — Tools such as management strategy evaluation (MSE) and scenario planning are used to explore trade-offs among objectives. Ethnofishecology informs these analyses by incorporating local knowledge and values into model parameters and scenarios.
+- **Human-Integrated Ecosystem-Based Fishery Management (HI-EBFM)** — NOAA's research strategy explicitly argues that marine resource management must study humans and the environment as a coupled system. The strategy foregrounds trade-offs among conservation, seafood production, profitability, and community well-being, and it calls for deeper integration of economics and human dimensions into climate, ecosystem, and stock-assessment work (NOAA Fisheries 2021).
+- **Socio-ecological resilience and adaptive management** — Contemporary management increasingly focuses on resilience: the capacity of systems and communities to absorb shocks, reorganize, and adapt. Ethnofishecology contributes by showing how communities perceive change, which indicators they treat as meaningful, and what institutional responses are likely to be workable.
+- **Interdisciplinary data integration** — Modern approaches combine biological data with social surveys, economic metrics, community profiles, and cultural indicators. The analytic goal is not just fuller description; it is better prediction of how policies affect fish populations, fleet behaviour, distributional outcomes, and the persistence of fishing communities.
+- **Trade-off analysis and scenario planning** — Management strategy evaluation and related scenario tools have become central because they make competing objectives explicit. NOAA-linked work on Atlantic herring, for example, shows how stakeholder participation can improve the realism and eventual uptake of MSE exercises while also complicating the design of the process (Feeney et al. 2019).
 
 ## Conclusion
 
-Modern ecosystem-based and human-integrated management approaches represent a paradigm shift towards holistic fisheries governance. Ethnofishecology plays a critical role in this framework by ensuring that human culture, behaviour and wellbeing are explicitly considered alongside ecological goals. This chapter highlights how interdisciplinary science and trade-off analysis guide sustainable fisheries management in the 21st century.
+Modern ecosystem-based and human-integrated management approaches represent a shift toward more explicit socio-ecological governance. Ethnofishecology matters in this setting because it keeps culture, behaviour, and community knowledge visible when models and policy processes are built. Its contribution is strongest when it sharpens trade-off analysis rather than merely adding social context around the edges.
 
 ## References
 
-1. NOAA Human-Integrated Ecosystem-Based Fishery Management (HI-EBFM) Research Strategy.
+- Feeney, R. G., D. V. Boelke, J. J. Deroba, S. Gaichas, B. J. Irwin, and M. Lee. 2019. "Integrating management strategy evaluation into fisheries management: advancing best practices for stakeholder inclusion based on an MSE for Northeast US Atlantic herring." *Canadian Journal of Fisheries and Aquatic Sciences*. <https://repository.library.noaa.gov/view/noaa/47886>
+- NOAA Fisheries. 2021. "Human Integrated Ecosystem Based Fishery Management, Research Strategy 2021-2025." <https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025>

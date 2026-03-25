@@ -4,28 +4,26 @@ title: "Future Directions in Ethnofishecology"
 
 ## Introduction
 
-As global fisheries face unprecedented challenges from climate change, shifting species distributions, social inequities and technological advances, ethnofishecology must evolve to address emerging issues. This chapter outlines potential future directions and research questions that will shape the field in coming decades.
+As global fisheries face accelerating climate change, shifting species distributions, social inequities, and rapid technological change, ethnofishecology will need to evolve beyond synthesis and into durable research practice. The next stage of the field will likely be defined less by naming the problem and more by building repeatable methods for integrating cultural evidence into ecological assessment and governance.
 
-## Methods and Evidence (to be developed)
+## Methods and Evidence
 
-- Horizon scanning and foresight methods
-- Participatory modelling and co-design
-- Mixed-methods synthesis across regions
+Future-oriented work in ethnofishecology will depend on horizon scanning, participatory modeling, mixed-methods synthesis across regions, and better protocols for validation. The key challenge is methodological: communities, scientists, and managers need ways to compare knowledge systems, represent uncertainty, and use qualitative insight without flattening it into false precision.
 
 ## Key Themes
 
-- **Climate change and shifting stocks** — Future ethnofishecology will need to understand how climate-driven shifts in species distributions, ocean conditions and extreme events affect fishing communities. Integrating indigenous knowledge with climate models can improve adaptation strategies.
-- **Social justice and equity** — Research should explore how fisheries management decisions impact different groups, including indigenous peoples, small-scale fishers, women and youth. Ensuring equitable access to resources and decision-making processes will be central to sustainable fisheries.
-- **Participatory modelling and co-design** — Emerging tools in participatory modelling and citizen science allow communities to co-design management scenarios and monitoring programmes. Ethnofishecology can facilitate these efforts by bridging scientific models with local knowledge.
-- **Data integration and technological innovations** — Advances in remote sensing, genomics, artificial intelligence and digital platforms offer new ways to collect and analyse data. Future ethnofishecology should leverage these tools to integrate socio-economic, cultural and ecological information in real time.
-- **Urban and recreational fisheries** — As urbanisation increases, recreational and urban fisheries become important for cultural identity and wellbeing. Ethnofishecology can expand to study these contexts and explore how fishing practices evolve in metropolitan areas.
+- **Climate change and shifting stocks** — Climate-driven shifts in distribution, productivity, and seasonality will continue to destabilize fishing practice and management assumptions. NOAA's HI-EBFM strategy explicitly treats climate adaptation, changing stock geography, and community resilience as linked research problems rather than separate domains (NOAA Fisheries 2021).
+- **Social justice and equity** — Future research will need to examine who benefits, who bears risk, and whose knowledge is legible in management systems. That includes indigenous peoples, small-scale fishers, women, youth, and communities whose fishing is subsistence-oriented or culturally important but weakly represented in commercial statistics.
+- **Participatory modelling and co-design** — Participatory modelling is likely to become one of the field's most useful tools because it allows knowledge holders to shape scenarios, parameters, and interpretations. The main payoff is not simply better participation; it is more credible model structure and clearer discussion of assumptions.
+- **Data integration and technological innovation** — Remote sensing, digital trace data, machine learning, and genomics will expand the range of usable fisheries data. Ethnofishecology should engage these tools selectively, using them to connect ecological, social, and cultural signals rather than assuming that more data automatically resolves interpretive conflict.
+- **Urban and recreational fisheries** — Urban shore fishing, charter fisheries, and recreational harvest are increasingly important arenas for identity, food access, and local ecological knowledge. These fisheries are often visible to communities but thinly represented in conventional management narratives, making them promising areas for future ethnofishecological work.
 
 ## Conclusion
 
-The future of ethnofishecology lies in its ability to adapt to rapidly changing ecological and social conditions while maintaining a focus on human–fish relationships. By embracing interdisciplinary methods, participatory approaches and new technologies, the field can contribute to sustainable fisheries and resilient communities in a changing world.
+The future of ethnofishecology lies in its ability to produce methods that are both interdisciplinary and disciplined. If the field can make cultural evidence comparable, transparent, and decision-relevant without stripping away context, it can contribute meaningfully to climate adaptation, equity-focused governance, and more realistic fisheries models.
 
 ## References
 
-1. ANU study on human ecology and food security emphasising collaborative processes and Payments for Environmental Services.
-2. NOAA HI-EBFM strategy outlining interdisciplinary research needs.
-3. European freshwater fisheries review calling for research on historical and cultural heritage.
+- Mansfield, E. J., F. Micheli, R. Fujita, E. A. Fulton, S. Gelcich, W. Battista, R. H. Bustamante, et al. 2024. "Anticipating trade-offs and promoting synergies between small-scale fisheries and aquaculture to improve social, economic, and ecological outcomes." *npj Ocean Sustainability* 3. <https://doi.org/10.1038/s44183-023-00035-5>
+- NOAA Fisheries. 2021. "Human Integrated Ecosystem Based Fishery Management, Research Strategy 2021-2025." <https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025>
+- Schmidt, A., A. Wakwabi, J. R. Oeta, S. M. P. N. Jiddawi, and N. A. Jiddawi. 2023. "Using fishers' local ecological knowledge for management of small-scale fisheries in data-poor regions: comparing seasonal interview and field observation records in East Africa." *Fisheries Research* 266. <https://doi.org/10.1016/j.fishres.2023.106721>

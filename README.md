@@ -1,79 +1,52 @@
 # Ethnofishecology
-   - **What is Ethnofishecology?** 
-     - The study of the relationships between human cultures and fisheries, including traditional knowledge, practices, and technologies.
-     - The ecological and cultural impacts of fishing practices across time and space.
-     - The interplay between indigenous, artisanal, and industrial fishing methods.
-   - **Inspiration from Ethnomusicology:** Draw parallels to how ethnomusicology emerged as a field, focusing on the cultural context of music. Similarly, Ethnofishecology could explore the cultural, historical, and ecological dimensions of fishing.
 
+This repository contains a Quarto book project on ethnofishecology: an emerging interdisciplinary framing for studying how cultural knowledge, fishing practice, governance, and ecological dynamics interact across fisheries systems.
 
-## How to Contribute
-We welcome contributions from researchers, practitioners, and fishing communities worldwide. Here’s how you can get involved:
-1. **Fork this repository** to your own GitHub account.
-2. **Create a branch** for your contributions (e.g., `chapter3-draft`).
-3. **Add your content** (text, images, references) to the appropriate folder.
-4. **Submit a pull request** for review.
+The manuscript is currently a draft synthesis rather than a finished monograph. The goal of the repository is to keep the argument, citations, and published site aligned in one place instead of maintaining separate source and hand-edited HTML versions.
 
-Please follow these guidelines:
-- Write in Markdown (`.md`) format.
-- Use APA or Chicago style for citations.
-- Include high-resolution images with proper attribution.
+## Repository layout
+
+- `index.qmd`: preface and framing for the book.
+- `concept_note.qmd`: concise statement of the field, problem, and research agenda.
+- `chapter*.qmd`: main manuscript chapters.
+- `_quarto.yml`: Quarto book configuration.
+- `docs/`: canonical rendered output for GitHub Pages.
+
+## Prerequisites
+
+- Quarto CLI installed and available on `PATH`.
+- A LaTeX distribution if you want to build the PDF artifact.
+
+## Build and preview
+
+Preview the book locally:
+
+```bash
+quarto preview
+```
+
+Render the publication artifacts into `docs/`:
+
+```bash
+quarto render
+```
+
+Quarto also creates a local `_book/` directory during some workflows; that directory is ignored and should not be treated as the publish target.
+
+## Editing guidance
+
+- Edit source in `.qmd` files, not the rendered HTML in `docs/`.
+- Keep claims tied to identifiable references.
+- Prefer concise prose over outline placeholders.
+- Use standard scholarly references or stable institutional sources where appropriate.
+
+## Contributing
+
+1. Create a branch for the change.
+2. Edit the relevant `.qmd` source files.
+3. Run `quarto render` to refresh `docs/`.
+4. Review the rendered pages before opening a pull request.
 
 ## Contact
-For questions or collaboration inquiries, please contact [jim.ianelli@gmail.com].
 
----
-
-### **Chapter Outline Template**
-# Chapter Title
-
-## Introduction
-- Briefly introduce the topic of the chapter.
-- Explain its relevance to Ethnofishecology.
-
-## Key Themes
-- Outline the main themes or sections of the chapter.
-- Use subheadings to organize content.
-
-### Section 1: [Theme or Topic]
-- Discuss the first key theme.
-- Include examples, case studies, or data.
-
-### Section 2: [Theme or Topic]
-- Discuss the second key theme.
-- Include examples, case studies, or data.
-
-## Conclusion
-- Summarize the main points of the chapter.
-- Highlight connections to other chapters or the broader field of Ethnofishecology.
-
-## References
-- List all citations used in the chapter.
-- Use APA or Chicago style.
-
----
-
-### Example Chapter: Traditional Fishing Methods
-
-## Introduction
-Traditional fishing methods have been used for millennia, reflecting the deep connection between human cultures and aquatic ecosystems. This chapter explores the diversity of traditional fishing practices, their cultural significance, and their ecological impacts.
-
-## Key Themes
-
-### Section 1: Tools and Techniques
-- Handlines, nets, traps, and spears.
-- Regional variations in tool design and use.
-
-### Section 2: Indigenous Ecological Knowledge
-- How traditional practices reflect an understanding of local ecosystems.
-- Examples of sustainable practices.
-
-### Section 3: Cultural Significance
-- Rituals, folklore, and symbolism associated with fishing.
-- The role of fishing in community identity.
-
-## Conclusion
-Traditional fishing methods offer valuable insights into sustainable practices and cultural heritage. Their preservation is essential for both ecological and cultural resilience.
-
-## References
-- Smith, J. (2020). *The Ecology of Traditional Fishing*. Cambridge University Press.
-- Tanaka, M. (2018). "Indigenous Knowledge and Fisheries Management." *Journal of Ethnobiology*, 38(2), 123-145.
+Questions or collaboration inquiries: `jim.ianelli@gmail.com`

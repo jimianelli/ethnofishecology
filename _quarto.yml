@@ -1,10 +1,14 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Ethnofishecology"
   subtitle: "Bridging Traditional Knowledge and Modern Fisheries Science"
-  date: today
+  date: last-modified
+  repo-url: https://github.com/jimianelli/ethnofishecology
+  downloads:
+    - pdf
   chapters:
     - index.qmd
     - concept_note.qmd

@@ -4,26 +4,24 @@ title: "Emergence of Ethnofishecology (1960s–1980s)"
 
 ## Introduction
 
-Ethnofishecology began to take shape during the 1960s–1980s as scholars in maritime anthropology and ethnobiology started to study fishing communities in their own right. Early research recognised that local knowledge and cultural practices were central to fisheries management and that ethnobiological methods could inform conservation and resource use.
+Ethnofishecology began to take shape during the 1960s–1980s as scholars in maritime anthropology, ethnobiology, and fisheries sociology started to study fishing communities in their own right. Rather than treating fishers as background to biological production, this work showed that knowledge, classification, gear choice, and labour organization were part of the fishery system itself. By the end of the period, the intellectual groundwork existed for treating local ecological knowledge as relevant to management rather than as anecdotal supplement.
 
-## Methods and Evidence (to be developed)
+## Methods and Evidence
 
-- Comparative historical synthesis
-- Case-study triangulation
-- Archival and oral-history sources
+The emergence of the field is best reconstructed through comparative historical synthesis. Relevant evidence includes ethnographic studies of fishing communities, archival material on artisanal fisheries, and early work on fishers' ecological knowledge. That combination allows the period to be read not as the invention of a single discipline, but as a convergence of adjacent literatures that began to ask similar questions about how people know fish and how institutions use or ignore that knowledge.
 
 ## Key Themes
 
-- **Formal recognition of ethnoichthyology** — The term "ethnoichthyology" emerged to describe the study of human knowledge of fish and fish-related practices across cultures. Early scholars drew on anthropology, ichthyology and economics to understand how fishing communities classified species, developed gear and organised labour.
-- **Maritime anthropology and human ecology** — Anthropologists studied small-scale fishing communities as coupled socio-ecological systems. Case studies from the North Atlantic, Pacific and tropics highlighted the importance of traditional ecological knowledge in determining fishing strategies, seasonal movements and community institutions.
-- **Local knowledge versus scientific management** — Early ethnofishecology underscored tensions between local knowledge and centralised management. For example, the Newfoundland cod collapse triggered debates about the failure to heed fishers' observations of declining stocks and the need to integrate local ecological knowledge into management models.
-- **Artisanal fisheries and cultural heritage** — Historical reviews of European freshwater fisheries show that artisanal fisheries have deep roots and have shaped local cultures over centuries. These analyses emphasised that fishing practices were adapted to local environments and reinforced social identity through rituals and communal norms.
+- **Formal recognition of ethnoichthyology** — Work under the banner of ethnoichthyology provided a vocabulary for studying human knowledge of fish and fish-related practices across cultures. It linked species classification, use, symbolism, and practical fishing knowledge, and helped establish fish as a legitimate focus within ethnobiology rather than a niche topic within broader natural history (Svanberg and Locker 2020).
+- **Maritime anthropology and human ecology** — Anthropologists studying coastal and riverine communities increasingly described fisheries as coupled social and ecological systems. This shift redirected attention toward household strategy, labour allocation, seasonal movement, and the institutional settings in which fishing decisions were made.
+- **Local knowledge versus scientific management** — The period also exposed a recurring tension between local observation and centralized management. Newfoundland research later showed that interviews with fishers could recover information about cod behaviour, spawning areas, changing catchability, and rising fishing efficiency that standard assessment inputs had missed or underweighted (Neis et al. 1999).
+- **Artisanal fisheries and cultural heritage** — Historical work on European freshwater fisheries reinforced the point that artisanal fisheries were not marginal survivals. They were durable systems of livelihood, knowledge transmission, and local governance, even when later industrial and regulatory changes rendered them less visible in mainstream fisheries science (Svanberg and Locker 2020).
 
 ## Conclusion
 
-The emergence of ethnofishecology laid the foundation for understanding fisheries as socio-ecological systems. By documenting traditional practices and highlighting the value of local ecological knowledge, early scholars showed that fisheries management must account for human culture and behaviour. This period paved the way for later integration of human ecology and collaborative management approaches.
+The emergence of ethnofishecology laid the foundation for understanding fisheries as socio-ecological systems. By documenting traditional practices and highlighting the analytical value of local ecological knowledge, early scholars made it harder to defend a purely technocratic model of fisheries management. This period prepared the ground for later work on co-management, adaptive governance, and mixed-methods ecological inference.
 
 ## References
 
-1. Ethnoichthyology — description and disciplinary scope.
-2. Historical review of European freshwater fisheries emphasising artisanal heritage.
+- Neis, B., L. Felt, R. L. Haedrich, and D. C. Schneider. 1999. "Fisheries assessment: what can be learned from interviewing resource users?" *Canadian Journal of Fisheries and Aquatic Sciences* 56(10): 1949-1963.
+- Svanberg, I., and A. Locker. 2020. "Ethnoichthyology of freshwater fish in Europe: a review of vanishing traditional fisheries and their cultural significance in changing landscapes from the later medieval period with a focus on northern Europe." *Journal of Ethnobiology and Ethnomedicine* 16. <https://doi.org/10.1186/s13002-020-00410-3>

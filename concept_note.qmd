@@ -4,11 +4,11 @@ title: "Concept Note"
 
 ## Problem
 
-Fisheries science relies heavily on quantitative stock assessment and often under-represents culturally embedded knowledge and practices that shape fishing effort, selectivity, and ecological outcomes.
+Fisheries science relies heavily on quantitative stock assessment and fishery-independent monitoring, but it often under-represents the culturally embedded knowledge and practices that shape fishing effort, selectivity, and ecological outcomes. That omission matters most where long time series are sparse, governance is contested, or behavioural change is driving ecological change faster than standard data systems can explain.
 
 ## Objective
 
-Establish ethnofishecology as a field that formalizes cultural knowledge and practice as ecological evidence, improving understanding and management.
+Establish ethnofishecology as a field that treats cultural knowledge and fishing practice as interpretable ecological evidence, improving explanation, diagnosis, and management without collapsing the distinction between lived experience and formal inference.
 
 ## Approach
 
@@ -18,17 +18,21 @@ Establish ethnofishecology as a field that formalizes cultural knowledge and pra
 
 ## Expected Outcomes
 
-- More accurate representation of fishing dynamics.
-- Improved diagnostics in assessment models.
-- Management strategies that are socially legitimate and ecologically robust.
+- Potentially more accurate representation of fishing dynamics where behaviour and local practice are poorly captured.
+- Better diagnostics for explaining divergence between observed stock dynamics and model assumptions.
+- Management strategies that are more socially legible and ecologically robust.
 
-## Research Agenda (starter)
+## Research Agenda
 
 1. How do culturally specific gear practices map to selectivity patterns?
 2. What validation pathways are appropriate for oral or practice-based knowledge?
 3. How should uncertainty from cultural data be propagated into assessments?
 4. How do governance systems adapt when ecological change breaks historical practice?
 
+## Position in the Book
+
+This concept note is a framing document for the larger manuscript. It sets out a research program rather than a settled discipline, and it is most useful when read alongside the historical and management chapters that follow.
+
 ## Limitations
 
-This concept note is a framing document and does not introduce new empirical data or conclusions.
+This concept note is a framing document. It does not introduce new empirical data and should be read as a proposal for synthesis and method development rather than as a claim that ethnofishecology is already a fully institutionalized field.

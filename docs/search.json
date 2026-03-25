@@ -1,0 +1,362 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ethnofishecology",
+    "section": "",
+    "text": "0.1 About This Book\nThis book was born from a desire to capture something that often slips between disciplinary cracks: the full arc of human knowledge about fish, from the place-based observations of fishing communities to the quantitative frameworks of contemporary fisheries science. It treats oral tradition, fishing practice, and community-based ecological observation as evidence that can complement formal surveys, stock assessments, and policy analysis when handled carefully and with explicit uncertainty.\nThe impetus was simple: fisheries management often privileges the period covered by formal monitoring, even when communities hold much longer records of seasonality, habitat use, gear selectivity, and local change. From handline fishers in the Pacific to gill-net communities in the North Atlantic, people have long tracked fish behaviour, abundance, and ecological change through repeated practice. Understanding how those observations connect to, complement, and sometimes challenge modern methods is the central project of ethnofishecology.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#scope-and-structure",
+    "href": "index.html#scope-and-structure",
+    "title": "Ethnofishecology",
+    "section": "0.2 Scope and Structure",
+    "text": "0.2 Scope and Structure\nThis book explores the evolving relationship between humans and fisheries ecosystems, synthesizing insights from anthropology, ichthyology, human ecology, economics, and environmental science. It introduces the emerging field of ethnofishecology, maps its historical development, and highlights future directions.\nThe chapters include:\n\nConcept note — frames the problem, objective, and initial research agenda for ethnofishecology as a field-building project.\nFoundations — defines the scope of ethnofishecology, describing traditional fishing practices, folk knowledge, and early cultural connections between people and fish.\nEmergence of ethnofishecology — covers the formal recognition of human–fish studies in the late 20th century, including early case studies and debates over local vs. scientific knowledge.\nIntegration with human ecology and ethnoecology — examines socio-ecological models, local ecological knowledge, and co-management of fisheries.\nModern ecosystem-based and human-integrated management — describes recent frameworks such as NOAA’s Human-Integrated Ecosystem-Based Fishery Management and the shift towards interdisciplinary, socio-ecological resilience.\nFuture directions — looks ahead to challenges like climate change, equity, participatory modelling, new data tools, and urban and recreational fisheries.\n\nThe current manuscript is intentionally synthetic. It is meant to provide a usable starting point for researchers and practitioners who want a clearer conceptual bridge between fisheries science, ethnobiology, and the study of fishing communities as ecological actors.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "concept_note.html",
+    "href": "concept_note.html",
+    "title": "2  Concept Note",
+    "section": "",
+    "text": "2.1 Problem\nFisheries science relies heavily on quantitative stock assessment and fishery-independent monitoring, but it often under-represents the culturally embedded knowledge and practices that shape fishing effort, selectivity, and ecological outcomes. That omission matters most where long time series are sparse, governance is contested, or behavioural change is driving ecological change faster than standard data systems can explain.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Concept Note</span>"
+    ]
+  },
+  {
+    "objectID": "concept_note.html#objective",
+    "href": "concept_note.html#objective",
+    "title": "2  Concept Note",
+    "section": "2.2 Objective",
+    "text": "2.2 Objective\nEstablish ethnofishecology as a field that treats cultural knowledge and fishing practice as interpretable ecological evidence, improving explanation, diagnosis, and management without collapsing the distinction between lived experience and formal inference.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Concept Note</span>"
+    ]
+  },
+  {
+    "objectID": "concept_note.html#approach",
+    "href": "concept_note.html#approach",
+    "title": "2  Concept Note",
+    "section": "2.3 Approach",
+    "text": "2.3 Approach\n\nSystematize cultural practice data (gear, timing, spatial patterns, rules, narratives).\nLink those data to ecological mechanisms (selectivity, recruitment exposure, habitat use).\nIntegrate with assessments through structured inference and explicit uncertainty.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Concept Note</span>"
+    ]
+  },
+  {
+    "objectID": "concept_note.html#expected-outcomes",
+    "href": "concept_note.html#expected-outcomes",
+    "title": "2  Concept Note",
+    "section": "2.4 Expected Outcomes",
+    "text": "2.4 Expected Outcomes\n\nPotentially more accurate representation of fishing dynamics where behaviour and local practice are poorly captured.\nBetter diagnostics for explaining divergence between observed stock dynamics and model assumptions.\nManagement strategies that are more socially legible and ecologically robust.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Concept Note</span>"
+    ]
+  },
+  {
+    "objectID": "concept_note.html#research-agenda",
+    "href": "concept_note.html#research-agenda",
+    "title": "2  Concept Note",
+    "section": "2.5 Research Agenda",
+    "text": "2.5 Research Agenda\n\nHow do culturally specific gear practices map to selectivity patterns?\nWhat validation pathways are appropriate for oral or practice-based knowledge?\nHow should uncertainty from cultural data be propagated into assessments?\nHow do governance systems adapt when ecological change breaks historical practice?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Concept Note</span>"
+    ]
+  },
+  {
+    "objectID": "concept_note.html#position-in-the-book",
+    "href": "concept_note.html#position-in-the-book",
+    "title": "2  Concept Note",
+    "section": "2.6 Position in the Book",
+    "text": "2.6 Position in the Book\nThis concept note is a framing document for the larger manuscript. It sets out a research program rather than a settled discipline, and it is most useful when read alongside the historical and management chapters that follow.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Concept Note</span>"
+    ]
+  },
+  {
+    "objectID": "concept_note.html#limitations",
+    "href": "concept_note.html#limitations",
+    "title": "2  Concept Note",
+    "section": "2.7 Limitations",
+    "text": "2.7 Limitations\nThis concept note is a framing document. It does not introduce new empirical data and should be read as a proposal for synthesis and method development rather than as a claim that ethnofishecology is already a fully institutionalized field.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Concept Note</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1_foundations.html",
+    "href": "chapter1_foundations.html",
+    "title": "3  Foundations of Ethnofishecology",
+    "section": "",
+    "text": "3.1 Introduction\nEthnofishecology examines the relationships between human cultures and fisheries and asks how those relationships shape ecological outcomes. It draws on anthropology, fisheries science, and marine ecology to explain how people know, use, classify, and govern fish across time and place. Recent reviews in ethnobiology and ethnoichthyology make clear that fish knowledge is not only symbolic or folkloric; it is also embedded in labour, gear design, taxonomy, and repeated observation of local environments (Begossi and Caires 2015; Svanberg and Locker 2020).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1_foundations.html#definition-and-scope",
+    "href": "chapter1_foundations.html#definition-and-scope",
+    "title": "3  Foundations of Ethnofishecology",
+    "section": "3.2 Definition and Scope",
+    "text": "3.2 Definition and Scope\nEthnofishecology is the study of how human cultures shape fishing practices and how those practices, in turn, shape ecological outcomes. It integrates cultural knowledge, historical practice, and fisheries science to explain selectivity, effort distribution, and ecological impact across time and space.\nKey scope elements:\n\nTraditional knowledge, practices, and technologies as structured evidence.\nEcological and cultural impacts of fishing practices across time and space.\nInterplay among indigenous, artisanal, and industrial fishing methods.\nBoundaries with related fields: ethnobiology (broader human–biota relationships), fisheries anthropology (social systems), and fisheries science (population dynamics).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1_foundations.html#origin-and-inspiration",
+    "href": "chapter1_foundations.html#origin-and-inspiration",
+    "title": "3  Foundations of Ethnofishecology",
+    "section": "3.3 Origin and Inspiration",
+    "text": "3.3 Origin and Inspiration\nEthnomusicology provides a useful analogy because it formalized the cultural context of music as a legitimate object of study rather than background material. Ethnofishecology is proposed in a similar spirit: it treats the cultural, historical, and ecological dimensions of fishing as central components of fisheries research rather than as peripheral context. The analogy is heuristic rather than genealogical, but it helps clarify the ambition of the field.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1_foundations.html#methods-and-evidence",
+    "href": "chapter1_foundations.html#methods-and-evidence",
+    "title": "3  Foundations of Ethnofishecology",
+    "section": "3.4 Methods and Evidence",
+    "text": "3.4 Methods and Evidence\nThe evidentiary base for ethnofishecology is plural. It includes ethnographic observation, oral history, vernacular taxonomies, gear descriptions, spatial knowledge, historical records, and contemporary ecological datasets. The key methodological move is not to treat all sources as interchangeable, but to ask what each source can reliably say about fish behaviour, habitat, abundance, seasonality, and fishing effort. Reviews of fisheries ethnobiology emphasize that cultural materials can reveal ecological information when interpreted with attention to context, transmission, and scale (Begossi and Caires 2015; Svanberg and Locker 2020).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1_foundations.html#traditional-knowledge-and-early-practices",
+    "href": "chapter1_foundations.html#traditional-knowledge-and-early-practices",
+    "title": "3  Foundations of Ethnofishecology",
+    "section": "3.5 Traditional Knowledge and Early Practices",
+    "text": "3.5 Traditional Knowledge and Early Practices\n\nLocal knowledge and taxonomy: fishing communities have long developed folk taxonomies and behavioural knowledge that guide when, where, and how fish are taken. Those classifications often encode habitat, morphology, seasonality, and use value, making them relevant to ecological interpretation as well as cultural analysis.\nTools and techniques: handlines, nets, traps, weirs, and spears were adapted to specific environments and resource constraints. Gear is therefore not just a technical object but a record of how communities learned the behaviour and accessibility of fish populations over time.\nEcological and cultural impacts: fishing practices influenced settlement patterns, livelihoods, exchange, language, and material culture. Historical reviews of freshwater fisheries in Europe show how artisanal fisheries supported food systems while also shaping local institutions and landscapes (Svanberg and Locker 2020).\nGlobal context: artisanal and indigenous fisheries demonstrate that fish are at once food, livelihood, ecological indicator, and cultural symbol. That combined role is precisely why a narrowly biological account is often incomplete.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1_foundations.html#significance",
+    "href": "chapter1_foundations.html#significance",
+    "title": "3  Foundations of Ethnofishecology",
+    "section": "3.6 Significance",
+    "text": "3.6 Significance\nUnderstanding the foundations of ethnofishecology clarifies why fishing knowledge should matter to present-day science and management. The field does not claim that all traditional practice is inherently sustainable or automatically generalizable. Instead, it argues that historically grounded knowledge of fish, gear, and place can improve how fisheries researchers formulate hypotheses, interpret anomalies, and communicate management choices.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1_foundations.html#references",
+    "href": "chapter1_foundations.html#references",
+    "title": "3  Foundations of Ethnofishecology",
+    "section": "3.7 References",
+    "text": "3.7 References\n\nBegossi, A., and R. Caires. 2015. “Art, fisheries and ethnobiology.” Journal of Ethnobiology and Ethnomedicine 11. https://ethnobiomed.biomedcentral.com/articles/10.1186/1746-4269-11-17\nSvanberg, I., and A. Locker. 2020. “Ethnoichthyology of freshwater fish in Europe: a review of vanishing traditional fisheries and their cultural significance in changing landscapes from the later medieval period with a focus on northern Europe.” Journal of Ethnobiology and Ethnomedicine 16. https://doi.org/10.1186/s13002-020-00410-3",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2_emergence.html",
+    "href": "chapter2_emergence.html",
+    "title": "4  Emergence of Ethnofishecology (1960s–1980s)",
+    "section": "",
+    "text": "4.1 Introduction\nEthnofishecology began to take shape during the 1960s–1980s as scholars in maritime anthropology, ethnobiology, and fisheries sociology started to study fishing communities in their own right. Rather than treating fishers as background to biological production, this work showed that knowledge, classification, gear choice, and labour organization were part of the fishery system itself. By the end of the period, the intellectual groundwork existed for treating local ecological knowledge as relevant to management rather than as anecdotal supplement.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Emergence of Ethnofishecology (1960s–1980s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2_emergence.html#methods-and-evidence",
+    "href": "chapter2_emergence.html#methods-and-evidence",
+    "title": "4  Emergence of Ethnofishecology (1960s–1980s)",
+    "section": "4.2 Methods and Evidence",
+    "text": "4.2 Methods and Evidence\nThe emergence of the field is best reconstructed through comparative historical synthesis. Relevant evidence includes ethnographic studies of fishing communities, archival material on artisanal fisheries, and early work on fishers’ ecological knowledge. That combination allows the period to be read not as the invention of a single discipline, but as a convergence of adjacent literatures that began to ask similar questions about how people know fish and how institutions use or ignore that knowledge.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Emergence of Ethnofishecology (1960s–1980s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2_emergence.html#key-themes",
+    "href": "chapter2_emergence.html#key-themes",
+    "title": "4  Emergence of Ethnofishecology (1960s–1980s)",
+    "section": "4.3 Key Themes",
+    "text": "4.3 Key Themes\n\nFormal recognition of ethnoichthyology — Work under the banner of ethnoichthyology provided a vocabulary for studying human knowledge of fish and fish-related practices across cultures. It linked species classification, use, symbolism, and practical fishing knowledge, and helped establish fish as a legitimate focus within ethnobiology rather than a niche topic within broader natural history (Svanberg and Locker 2020).\nMaritime anthropology and human ecology — Anthropologists studying coastal and riverine communities increasingly described fisheries as coupled social and ecological systems. This shift redirected attention toward household strategy, labour allocation, seasonal movement, and the institutional settings in which fishing decisions were made.\nLocal knowledge versus scientific management — The period also exposed a recurring tension between local observation and centralized management. Newfoundland research later showed that interviews with fishers could recover information about cod behaviour, spawning areas, changing catchability, and rising fishing efficiency that standard assessment inputs had missed or underweighted (Neis et al. 1999).\nArtisanal fisheries and cultural heritage — Historical work on European freshwater fisheries reinforced the point that artisanal fisheries were not marginal survivals. They were durable systems of livelihood, knowledge transmission, and local governance, even when later industrial and regulatory changes rendered them less visible in mainstream fisheries science (Svanberg and Locker 2020).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Emergence of Ethnofishecology (1960s–1980s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2_emergence.html#conclusion",
+    "href": "chapter2_emergence.html#conclusion",
+    "title": "4  Emergence of Ethnofishecology (1960s–1980s)",
+    "section": "4.4 Conclusion",
+    "text": "4.4 Conclusion\nThe emergence of ethnofishecology laid the foundation for understanding fisheries as socio-ecological systems. By documenting traditional practices and highlighting the analytical value of local ecological knowledge, early scholars made it harder to defend a purely technocratic model of fisheries management. This period prepared the ground for later work on co-management, adaptive governance, and mixed-methods ecological inference.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Emergence of Ethnofishecology (1960s–1980s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2_emergence.html#references",
+    "href": "chapter2_emergence.html#references",
+    "title": "4  Emergence of Ethnofishecology (1960s–1980s)",
+    "section": "4.5 References",
+    "text": "4.5 References\n\nNeis, B., L. Felt, R. L. Haedrich, and D. C. Schneider. 1999. “Fisheries assessment: what can be learned from interviewing resource users?” Canadian Journal of Fisheries and Aquatic Sciences 56(10): 1949-1963.\nSvanberg, I., and A. Locker. 2020. “Ethnoichthyology of freshwater fish in Europe: a review of vanishing traditional fisheries and their cultural significance in changing landscapes from the later medieval period with a focus on northern Europe.” Journal of Ethnobiology and Ethnomedicine 16. https://doi.org/10.1186/s13002-020-00410-3",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Emergence of Ethnofishecology (1960s–1980s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3_integration.html",
+    "href": "chapter3_integration.html",
+    "title": "5  Integration with Human Ecology and Ethnoecology (1990s–2000s)",
+    "section": "",
+    "text": "5.1 Introduction\nDuring the 1990s–2000s ethnofishecology began integrating more explicitly with human ecology and ethnoecology, recognizing that fisheries are dynamic socio-ecological systems. Researchers increasingly asked how local practice, ecological feedback, and governance co-produced outcomes. The result was a move away from description alone and toward frameworks that could explain adaptation, learning, and institutional change.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Integration with Human Ecology and Ethnoecology (1990s–2000s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3_integration.html#methods-and-evidence",
+    "href": "chapter3_integration.html#methods-and-evidence",
+    "title": "5  Integration with Human Ecology and Ethnoecology (1990s–2000s)",
+    "section": "5.2 Methods and Evidence",
+    "text": "5.2 Methods and Evidence\nThe integration phase was defined by mixed methods. Ethnographic observation, interviews, participatory mapping, and oral-history approaches were paired with catch records, habitat information, and other ecological data. This mattered because it made local ecological knowledge legible to interdisciplinary research without reducing it to a simple proxy for survey data. Reviews from the period emphasize validation, triangulation, and co-production rather than a binary choice between scientific and local knowledge (Begossi, Clauzet, and Dyball 2015; Berkstrom et al. 2019).",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Integration with Human Ecology and Ethnoecology (1990s–2000s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3_integration.html#key-themes",
+    "href": "chapter3_integration.html#key-themes",
+    "title": "5  Integration with Human Ecology and Ethnoecology (1990s–2000s)",
+    "section": "5.3 Key Themes",
+    "text": "5.3 Key Themes\n\nHuman ecological models and cultural adaptation — Human ecological models were used to describe how communities adapt to changes in stocks, markets, and governance. In the fisheries literature, the Cultural Adaptation Template helped organize feedback among ecological information, collaborative process, and food security rather than treating fishery behaviour as a static response to prices or biomass alone (Begossi, Clauzet, and Dyball 2015).\nLocal ecological knowledge and co-management — Researchers documented how fishers and indigenous communities hold detailed knowledge about habitat connectivity, seasonal migration, and fishing grounds. That knowledge proved particularly useful in data-poor settings and in participatory management processes where management legitimacy depended on more than biological accuracy (Berkstrom et al. 2019; de Armengol et al. 2018).\nIncentives and stewardship — The period also broadened the discussion to stewardship incentives, including payments for environmental services and other mechanisms that reward conservation behaviour. These ideas were not presented as universal solutions, but as ways to align ecological goals, fisher incentives, and local institutional capacity in small-scale fisheries (Begossi, Clauzet, and Dyball 2015).\nHistorical and global perspectives — Comparative work across regions showed that artisanal knowledge systems remained analytically important even under rapid modernization. The point was not nostalgia; it was that contemporary management still depended on understanding historically sedimented fishing practices and institutions.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Integration with Human Ecology and Ethnoecology (1990s–2000s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3_integration.html#conclusion",
+    "href": "chapter3_integration.html#conclusion",
+    "title": "5  Integration with Human Ecology and Ethnoecology (1990s–2000s)",
+    "section": "5.4 Conclusion",
+    "text": "5.4 Conclusion\nThe integration phase expanded ethnofishecology beyond description to incorporate models, participatory processes, and incentive design. By linking human ecology with fisheries research, scholars developed tools for asking how communities respond to ecological change and how collaborative management systems can use local knowledge without romanticizing it.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Integration with Human Ecology and Ethnoecology (1990s–2000s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3_integration.html#references",
+    "href": "chapter3_integration.html#references",
+    "title": "5  Integration with Human Ecology and Ethnoecology (1990s–2000s)",
+    "section": "5.5 References",
+    "text": "5.5 References\n\nBegossi, A., M. Clauzet, and R. Dyball. 2015. “Fisheries, ethnoecology, human ecology and food security: a review of concepts, collaboration and teaching.” Seguranca Alimentar e Nutricional 22(1): 574-590. https://researchportalplus.anu.edu.au/en/publications/fisheries-ethnoecology-human-ecology-and-food-security-a-review-o\nBerkstrom, C., M. Papadopoulos, N. S. Jiddawi, and L. M. Nordlund. 2019. “Fishers’ local ecological knowledge on connectivity and seascape management.” Frontiers in Marine Science 6:130. https://doi.org/10.3389/fmars.2019.00130\nde Armengol, L., M. Prieto-Castillo, I. Ruiz-Mallen, and E. Corbera. 2018. “A systematic review of co-managed small-scale fisheries: social diversity and adaptive management improve outcomes.” Global Environmental Change 52: 212-225. https://doi.org/10.1016/j.gloenvcha.2018.07.009",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Integration with Human Ecology and Ethnoecology (1990s–2000s)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4_modern_management.html",
+    "href": "chapter4_modern_management.html",
+    "title": "6  Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)",
+    "section": "",
+    "text": "6.1 Introduction\nIn the 2010s and beyond, ethnofishecology has increasingly intersected with ecosystem-based fisheries management (EBFM) and explicitly human-integrated approaches. Agencies such as NOAA now frame humans as part of the ecosystem and call for interdisciplinary science that can evaluate conservation, economic profitability, food production, jobs, and human well-being together rather than sequentially. This period emphasizes trade-offs, scenario analysis, and the integration of social, economic, and ecological data into decision-making.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4_modern_management.html#methods-and-evidence",
+    "href": "chapter4_modern_management.html#methods-and-evidence",
+    "title": "6  Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)",
+    "section": "6.2 Methods and Evidence",
+    "text": "6.2 Methods and Evidence\nThe modern management literature is methodologically diverse. It combines policy analysis, governance mapping, social and economic indicators, stock assessment outputs, and participatory scenario evaluation. Institutional strategies such as NOAA’s HI-EBFM plan matter here because they formalize the expectation that economics, human dimensions, and ecology should be coupled in routine fisheries science rather than treated as post hoc add-ons (NOAA Fisheries 2021).",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4_modern_management.html#key-themes",
+    "href": "chapter4_modern_management.html#key-themes",
+    "title": "6  Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)",
+    "section": "6.3 Key Themes",
+    "text": "6.3 Key Themes\n\nHuman-Integrated Ecosystem-Based Fishery Management (HI-EBFM) — NOAA’s research strategy explicitly argues that marine resource management must study humans and the environment as a coupled system. The strategy foregrounds trade-offs among conservation, seafood production, profitability, and community well-being, and it calls for deeper integration of economics and human dimensions into climate, ecosystem, and stock-assessment work (NOAA Fisheries 2021).\nSocio-ecological resilience and adaptive management — Contemporary management increasingly focuses on resilience: the capacity of systems and communities to absorb shocks, reorganize, and adapt. Ethnofishecology contributes by showing how communities perceive change, which indicators they treat as meaningful, and what institutional responses are likely to be workable.\nInterdisciplinary data integration — Modern approaches combine biological data with social surveys, economic metrics, community profiles, and cultural indicators. The analytic goal is not just fuller description; it is better prediction of how policies affect fish populations, fleet behaviour, distributional outcomes, and the persistence of fishing communities.\nTrade-off analysis and scenario planning — Management strategy evaluation and related scenario tools have become central because they make competing objectives explicit. NOAA-linked work on Atlantic herring, for example, shows how stakeholder participation can improve the realism and eventual uptake of MSE exercises while also complicating the design of the process (Feeney et al. 2019).",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4_modern_management.html#conclusion",
+    "href": "chapter4_modern_management.html#conclusion",
+    "title": "6  Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)",
+    "section": "6.4 Conclusion",
+    "text": "6.4 Conclusion\nModern ecosystem-based and human-integrated management approaches represent a shift toward more explicit socio-ecological governance. Ethnofishecology matters in this setting because it keeps culture, behaviour, and community knowledge visible when models and policy processes are built. Its contribution is strongest when it sharpens trade-off analysis rather than merely adding social context around the edges.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4_modern_management.html#references",
+    "href": "chapter4_modern_management.html#references",
+    "title": "6  Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)",
+    "section": "6.5 References",
+    "text": "6.5 References\n\nFeeney, R. G., D. V. Boelke, J. J. Deroba, S. Gaichas, B. J. Irwin, and M. Lee. 2019. “Integrating management strategy evaluation into fisheries management: advancing best practices for stakeholder inclusion based on an MSE for Northeast US Atlantic herring.” Canadian Journal of Fisheries and Aquatic Sciences. https://repository.library.noaa.gov/view/noaa/47886\nNOAA Fisheries. 2021. “Human Integrated Ecosystem Based Fishery Management, Research Strategy 2021-2025.” https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modern Ecosystem-Based and Human-Integrated Fisheries Management (2010s–present)</span>"
+    ]
+  },
+  {
+    "objectID": "chapter5_future.html",
+    "href": "chapter5_future.html",
+    "title": "7  Future Directions in Ethnofishecology",
+    "section": "",
+    "text": "7.1 Introduction\nAs global fisheries face accelerating climate change, shifting species distributions, social inequities, and rapid technological change, ethnofishecology will need to evolve beyond synthesis and into durable research practice. The next stage of the field will likely be defined less by naming the problem and more by building repeatable methods for integrating cultural evidence into ecological assessment and governance.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Future Directions in Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter5_future.html#methods-and-evidence",
+    "href": "chapter5_future.html#methods-and-evidence",
+    "title": "7  Future Directions in Ethnofishecology",
+    "section": "7.2 Methods and Evidence",
+    "text": "7.2 Methods and Evidence\nFuture-oriented work in ethnofishecology will depend on horizon scanning, participatory modeling, mixed-methods synthesis across regions, and better protocols for validation. The key challenge is methodological: communities, scientists, and managers need ways to compare knowledge systems, represent uncertainty, and use qualitative insight without flattening it into false precision.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Future Directions in Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter5_future.html#key-themes",
+    "href": "chapter5_future.html#key-themes",
+    "title": "7  Future Directions in Ethnofishecology",
+    "section": "7.3 Key Themes",
+    "text": "7.3 Key Themes\n\nClimate change and shifting stocks — Climate-driven shifts in distribution, productivity, and seasonality will continue to destabilize fishing practice and management assumptions. NOAA’s HI-EBFM strategy explicitly treats climate adaptation, changing stock geography, and community resilience as linked research problems rather than separate domains (NOAA Fisheries 2021).\nSocial justice and equity — Future research will need to examine who benefits, who bears risk, and whose knowledge is legible in management systems. That includes indigenous peoples, small-scale fishers, women, youth, and communities whose fishing is subsistence-oriented or culturally important but weakly represented in commercial statistics.\nParticipatory modelling and co-design — Participatory modelling is likely to become one of the field’s most useful tools because it allows knowledge holders to shape scenarios, parameters, and interpretations. The main payoff is not simply better participation; it is more credible model structure and clearer discussion of assumptions.\nData integration and technological innovation — Remote sensing, digital trace data, machine learning, and genomics will expand the range of usable fisheries data. Ethnofishecology should engage these tools selectively, using them to connect ecological, social, and cultural signals rather than assuming that more data automatically resolves interpretive conflict.\nUrban and recreational fisheries — Urban shore fishing, charter fisheries, and recreational harvest are increasingly important arenas for identity, food access, and local ecological knowledge. These fisheries are often visible to communities but thinly represented in conventional management narratives, making them promising areas for future ethnofishecological work.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Future Directions in Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter5_future.html#conclusion",
+    "href": "chapter5_future.html#conclusion",
+    "title": "7  Future Directions in Ethnofishecology",
+    "section": "7.4 Conclusion",
+    "text": "7.4 Conclusion\nThe future of ethnofishecology lies in its ability to produce methods that are both interdisciplinary and disciplined. If the field can make cultural evidence comparable, transparent, and decision-relevant without stripping away context, it can contribute meaningfully to climate adaptation, equity-focused governance, and more realistic fisheries models.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Future Directions in Ethnofishecology</span>"
+    ]
+  },
+  {
+    "objectID": "chapter5_future.html#references",
+    "href": "chapter5_future.html#references",
+    "title": "7  Future Directions in Ethnofishecology",
+    "section": "7.5 References",
+    "text": "7.5 References\n\nMansfield, E. J., F. Micheli, R. Fujita, E. A. Fulton, S. Gelcich, W. Battista, R. H. Bustamante, et al. 2024. “Anticipating trade-offs and promoting synergies between small-scale fisheries and aquaculture to improve social, economic, and ecological outcomes.” npj Ocean Sustainability 3. https://doi.org/10.1038/s44183-023-00035-5\nNOAA Fisheries. 2021. “Human Integrated Ecosystem Based Fishery Management, Research Strategy 2021-2025.” https://www.fisheries.noaa.gov/ecosystems/human-integrated-ecosystem-based-fishery-management-research-strategy-2021-2025\nSchmidt, A., A. Wakwabi, J. R. Oeta, S. M. P. N. Jiddawi, and N. A. Jiddawi. 2023. “Using fishers’ local ecological knowledge for management of small-scale fisheries in data-poor regions: comparing seasonal interview and field observation records in East Africa.” Fisheries Research 266. https://doi.org/10.1016/j.fishres.2023.106721",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Future Directions in Ethnofishecology</span>"
+    ]
+  }
+]

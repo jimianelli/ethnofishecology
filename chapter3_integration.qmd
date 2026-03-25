@@ -4,26 +4,25 @@ title: "Integration with Human Ecology and Ethnoecology (1990s–2000s)"
 
 ## Introduction
 
-During the 1990s–2000s ethnofishecology began integrating with human ecology and ethnoecology, recognising that fisheries are dynamic socio-ecological systems. Researchers developed frameworks to link cultural practices, ecological feedbacks and management institutions. These approaches emphasised the role of collaborative processes and local ecological knowledge in sustainable fisheries.
+During the 1990s–2000s ethnofishecology began integrating more explicitly with human ecology and ethnoecology, recognizing that fisheries are dynamic socio-ecological systems. Researchers increasingly asked how local practice, ecological feedback, and governance co-produced outcomes. The result was a move away from description alone and toward frameworks that could explain adaptation, learning, and institutional change.
 
-## Methods and Evidence (to be developed)
+## Methods and Evidence
 
-- Ethnographic methods linked to ecological data
-- Participatory mapping and co-production
-- Mixed-methods validation
+The integration phase was defined by mixed methods. Ethnographic observation, interviews, participatory mapping, and oral-history approaches were paired with catch records, habitat information, and other ecological data. This mattered because it made local ecological knowledge legible to interdisciplinary research without reducing it to a simple proxy for survey data. Reviews from the period emphasize validation, triangulation, and co-production rather than a binary choice between scientific and local knowledge (Begossi, Clauzet, and Dyball 2015; Berkstrom et al. 2019).
 
 ## Key Themes
 
-- **Human ecological models and cultural adaptation** — Scholars applied human ecological models to describe how fishing communities adapt to environmental and social changes. The Cultural Adaptation Template is one example that models feedback among ecological information, social organisation and food security.
-- **Local ecological knowledge and co-management** — Studies documented how indigenous and local communities possess detailed knowledge about fish habitats, migration, and seasonal patterns. Including this knowledge in co-management arrangements improved compliance and resource stewardship.
-- **Payments for environmental services (PES) and incentives** — Ethnoecological research highlighted economic instruments such as PES to reward fishers for conservation actions and maintain ecological functions. These incentives were proposed to support small-scale fisheries and enhance food security.
-- **Historical and global perspectives** — Reviews of European freshwater fisheries and other case studies examined how fishing practices evolved over centuries, emphasising that cultural heritage and artisanal knowledge are crucial for understanding current fisheries.
+- **Human ecological models and cultural adaptation** — Human ecological models were used to describe how communities adapt to changes in stocks, markets, and governance. In the fisheries literature, the Cultural Adaptation Template helped organize feedback among ecological information, collaborative process, and food security rather than treating fishery behaviour as a static response to prices or biomass alone (Begossi, Clauzet, and Dyball 2015).
+- **Local ecological knowledge and co-management** — Researchers documented how fishers and indigenous communities hold detailed knowledge about habitat connectivity, seasonal migration, and fishing grounds. That knowledge proved particularly useful in data-poor settings and in participatory management processes where management legitimacy depended on more than biological accuracy (Berkstrom et al. 2019; de Armengol et al. 2018).
+- **Incentives and stewardship** — The period also broadened the discussion to stewardship incentives, including payments for environmental services and other mechanisms that reward conservation behaviour. These ideas were not presented as universal solutions, but as ways to align ecological goals, fisher incentives, and local institutional capacity in small-scale fisheries (Begossi, Clauzet, and Dyball 2015).
+- **Historical and global perspectives** — Comparative work across regions showed that artisanal knowledge systems remained analytically important even under rapid modernization. The point was not nostalgia; it was that contemporary management still depended on understanding historically sedimented fishing practices and institutions.
 
 ## Conclusion
 
-The integration phase expanded ethnofishecology beyond description to incorporate models, participatory processes and incentive mechanisms. By linking human ecology with ethnofishecology, researchers developed tools for predicting how communities respond to ecological change and for designing collaborative management systems that leverage local knowledge and economic incentives.
+The integration phase expanded ethnofishecology beyond description to incorporate models, participatory processes, and incentive design. By linking human ecology with fisheries research, scholars developed tools for asking how communities respond to ecological change and how collaborative management systems can use local knowledge without romanticizing it.
 
 ## References
 
-1. Cultural Adaptation Template and human ecological models in fisheries.
-2. Review of European freshwater fisheries highlighting historical evolution and artisanal heritage.
+- Begossi, A., M. Clauzet, and R. Dyball. 2015. "Fisheries, ethnoecology, human ecology and food security: a review of concepts, collaboration and teaching." *Seguranca Alimentar e Nutricional* 22(1): 574-590. <https://researchportalplus.anu.edu.au/en/publications/fisheries-ethnoecology-human-ecology-and-food-security-a-review-o>
+- Berkstrom, C., M. Papadopoulos, N. S. Jiddawi, and L. M. Nordlund. 2019. "Fishers' local ecological knowledge on connectivity and seascape management." *Frontiers in Marine Science* 6:130. <https://doi.org/10.3389/fmars.2019.00130>
+- de Armengol, L., M. Prieto-Castillo, I. Ruiz-Mallen, and E. Corbera. 2018. "A systematic review of co-managed small-scale fisheries: social diversity and adaptive management improve outcomes." *Global Environmental Change* 52: 212-225. <https://doi.org/10.1016/j.gloenvcha.2018.07.009>
