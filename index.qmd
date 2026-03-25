@@ -18,6 +18,7 @@ The chapters include:
 - **Foundations** — defines the scope of ethnofishecology, describing traditional fishing practices, folk knowledge, and early cultural connections between people and fish.
 - **Emergence of ethnofishecology** — covers the formal recognition of human–fish studies in the late 20th century, including early case studies and debates over local vs. scientific knowledge.
 - **Integration with human ecology and ethnoecology** — examines socio-ecological models, local ecological knowledge, and co-management of fisheries.
+- **Pre-industrial fisheries and historical methods** — documents distinctive fishing technologies such as kite fishing, eel traps, dipnets, weirs, spears, and harpoons as records of ecological knowledge embedded in craft.
 - **Modern ecosystem-based and human-integrated management** — describes recent frameworks such as NOAA's Human-Integrated Ecosystem-Based Fishery Management and the shift towards interdisciplinary, socio-ecological resilience.
 - **Future directions** — looks ahead to challenges like climate change, equity, participatory modelling, new data tools, and urban and recreational fisheries.
 
