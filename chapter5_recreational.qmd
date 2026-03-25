@@ -1,0 +1,58 @@
+---
+title: "The Evolution and Importance of Sport and Recreational Fishing"
+---
+
+## Introduction
+
+Sport and recreational fishing deserve their own chapter because they are no longer peripheral to fisheries systems. In many industrialized societies, recreational fishing is a dominant or sole user of inland fish stocks and an increasingly important user of coastal stocks as well. It is also a domain where fishing is valued not only for food, but for leisure, identity, skill, competition, tourism, conservation funding, and connection to nature (Arlinghaus 2006; Arlinghaus et al. 2019).
+
+For ethnofishecology, this matters because recreational fisheries make the cultural dimensions of fishing especially visible. Decisions about what constitutes a good catch, whether fish should be harvested or released, how access should be allocated, and what kinds of experiences matter are all socially shaped. Recreational fisheries therefore reveal how fisheries management is not simply about biomass extraction, but also about the governance of values, practices, and expectations.
+
+## Methods and Evidence
+
+The literature on recreational fisheries draws from ecology, economics, psychology, sociology, and management science. It includes angler surveys, creel surveys, harvest and effort monitoring, economic impact assessments, and studies of behavior, ethics, and policy. That mix of methods is necessary because recreational fishing is a coupled social-ecological system: fish populations, regulations, travel behavior, technology, and cultural meaning all interact.
+
+In U.S. marine systems, NOAA's Marine Recreational Information Program and associated economic reporting provide the clearest official infrastructure for measuring participation, catch, and spending. More globally, review literature by Arlinghaus, Cooke, Cowx, and collaborators has helped define recreational fisheries as a serious field of management and conservation rather than a minor leisure issue.
+
+## Historical Evolution
+
+Modern sport fishing did not emerge from nowhere. It developed out of older elite and subsistence traditions, but expanded dramatically with industrialization, urbanization, mass-produced tackle, motorized mobility, and growing leisure time. Over time, recreational fishing became less tied to simple food acquisition and more tied to specialized techniques, tournament culture, charter operations, destination travel, and species-specific identities.
+
+One of the clearest signs of that evolution is the rise of catch-and-release. Arlinghaus and colleagues describe catch-and-release not just as a technical practice, but as a historically layered ethical and managerial shift in which fish can be pursued for challenge, experience, and stewardship without necessarily being retained (Arlinghaus et al. 2007). That shift has been reinforced by harvest regulations, conservation campaigns, and trophy-oriented angling cultures, even though harvest for food remains a major motive for many recreational fishers.
+
+The result is a fishery sector that is simultaneously traditional and modern. Shore angling, family salmon trips, pier fisheries, and local club culture persist, but they now coexist with highly networked tournaments, guided charter fleets, social media reporting, advanced electronics, and increasingly mobile anglers who can concentrate pressure quickly when information spreads.
+
+## Why Recreational Fishing Matters
+
+Recreational fishing matters because of scale. Arlinghaus and colleagues argue that in developed nations roughly one in ten people fishes for pleasure and that there are at least 220 million recreational fishers worldwide, more than five times the number of commercial capture fishers (Arlinghaus et al. 2019). In many local fisheries, recreational removals rival or exceed commercial catches even when the global biomass harvested remains lower than commercial extraction.
+
+It also matters economically. NOAA reports that in 2023 U.S. saltwater recreational fishing generated $145.4 billion in sales impacts, $78.4 billion in value-added impacts, and supported 694,041 full- and part-time jobs, with major contributions from charter operations, bait and tackle, boats, and travel spending (NOAA Fisheries 2026). These figures help explain why recreational fisheries are politically consequential even when they are not the dominant source of seafood.
+
+Finally, recreational fishing matters culturally. NOAA's recreational fishing policy framework explicitly treats it as both a conservation contributor and an important economic driver, while also acknowledging that it introduces stewardship challenges and allocation conflicts (NOAA Fisheries 2025). In practical terms, recreational fisheries often connect children and new participants to aquatic environments, create durable local traditions, and generate constituencies for habitat protection, stocking, and access maintenance.
+
+## Management, Conflict, and Allocation
+
+Recreational fisheries are difficult to manage because the objectives differ from those of commercial fisheries. Managers are not only trying to sustain fish stocks; they are also trying to sustain opportunity, satisfaction, fairness, and access across highly heterogeneous groups of fishers. Arlinghaus et al. argue that maximum sustained yield logic cannot simply be transferred into recreational contexts because anglers value diverse outcomes such as harvest, trophy size, solitude, challenge, and time on the water (Arlinghaus et al. 2019).
+
+This creates recurring conflicts. In mixed fisheries, commercial and recreational sectors compete over allocation. Within the recreational sector, shore anglers, charter clients, private boaters, tournament fishers, and subsistence-oriented recreationists may all have different priorities. Seasonal closures, bag limits, size limits, and access restrictions often benefit some users more than others. NOAA's recreational fishing framework reflects this complexity by emphasizing both partnership and data collection, including the 2015 Saltwater Recreational Fisheries Policy and the continuing role of MRIP in catch and effort estimation (NOAA Fisheries 2025).
+
+Recreational fisheries also create genuine conservation problems. Arlinghaus (2006) argued that recreational fisheries had been underestimated as a conservation issue despite the cumulative mortality generated by millions of participants. Later syntheses extended this point, showing that even when fish are released, recreational fisheries can alter fish behavior, create selection pressures, contribute to local depletion, and generate conflict over crowded sites and scarce opportunities (Arlinghaus et al. 2007; Arlinghaus et al. 2019).
+
+## Ethnofishecological Relevance
+
+Sport and recreational fishing belong in ethnofishecology because they make visible the contemporary cultural life of fishing. They show how fish become tied to status, memory, region, gear preference, moral debate, and ideas of fair access. Recreational fisheries are also one of the clearest places where modern technologies and older fishing identities mix: a person may use advanced sonar and social media while still participating in a deeply local fishing culture tied to a pier, river, reef, or seasonal run.
+
+They also complicate any simple distinction between "traditional" and "modern" fisheries. Recreational practices can preserve local knowledge and family continuity, but they can also intensify pressure, exclude certain users, and transform fish into leisure objects rather than food. That ambiguity is exactly why they matter analytically.
+
+## Conclusion
+
+The evolution of sport and recreational fishing is central to any contemporary account of fisheries culture. Recreational fishing has become a major economic sector, a large-scale user of fish stocks, and a powerful arena for debates over ethics, allocation, and conservation. For ethnofishecology, it offers a direct way to study how modern fisheries are shaped by values and practices that extend well beyond commercial production.
+
+## References
+
+- Arlinghaus, R. 2006. "Overcoming human obstacles to conservation of recreational fishery resources, with emphasis on central Europe." *Environmental Conservation* 33(1): 46-59. <https://doi.org/10.1017/S0376892906002700>
+- Arlinghaus, R., J. K. Abbott, E. P. Fenichel, S. R. Carpenter, L. M. Hunt, J. Alos, T. Klefoth, S. J. Cooke, R. Hilborn, O. P. Jensen, M. J. Wilberg, J. R. Post, and M. J. Manfredo. 2019. "Opinion: Governing the recreational dimension of global fisheries." *Proceedings of the National Academy of Sciences* 116(12): 5209-5213. <https://pmc.ncbi.nlm.nih.gov/articles/PMC6431172/>
+- Arlinghaus, R., S. J. Cooke, J. Lyman, D. Policansky, A. Schwab, C. Suski, S. G. Sutton, and E. B. Thorstad. 2007. "Understanding the complexity of catch-and-release in recreational fishing: An integrative synthesis of global knowledge from historical, ethical, social, and biological perspectives." *Reviews in Fisheries Science* 15(1-2): 75-167. <https://doi.org/10.1080/10641260601149432>
+- Lynch, A. J., L. M. Hunt, A. B. Beardmore, B. T. van Poorten, K. L. Pope, and R. Arlinghaus. 2026. "Complexity and integration of recreational fisheries." In *The future of recreational fisheries*. <https://doi.org/10.1007/978-3-031-99739-6_1>
+- NOAA Fisheries. 2025. "Recreational Fishing: Management." <https://www.fisheries.noaa.gov/topic/recreational-fishing/management>
+- NOAA Fisheries. 2026. "Fisheries Economics of the United States." <https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-economics-united-states>

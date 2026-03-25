@@ -17,6 +17,7 @@ book:
     - chapter3_integration.qmd
     - chapter4_preindustrial.qmd
     - chapter4_modern_management.qmd
+    - chapter5_recreational.qmd
     - chapter5_future.qmd
 
 format:

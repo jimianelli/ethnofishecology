@@ -20,6 +20,7 @@ The chapters include:
 - **Integration with human ecology and ethnoecology** — examines socio-ecological models, local ecological knowledge, and co-management of fisheries.
 - **Pre-industrial fisheries and historical methods** — documents distinctive fishing technologies such as kite fishing, eel traps, dipnets, weirs, spears, and harpoons as records of ecological knowledge embedded in craft.
 - **Modern ecosystem-based and human-integrated management** — describes recent frameworks such as NOAA's Human-Integrated Ecosystem-Based Fishery Management and the shift towards interdisciplinary, socio-ecological resilience.
-- **Future directions** — looks ahead to challenges like climate change, equity, participatory modelling, new data tools, and urban and recreational fisheries.
+- **Sport and recreational fishing** — examines the rise of angling and charter fisheries as major cultural, economic, and management domains with their own ethics, conflicts, and ecological effects.
+- **Future directions** — looks ahead to challenges like climate change, equity, participatory modelling, new data tools, and changing recreational participation.
 
 The current manuscript is intentionally synthetic. It is meant to provide a usable starting point for researchers and practitioners who want a clearer conceptual bridge between fisheries science, ethnobiology, and the study of fishing communities as ecological actors.
