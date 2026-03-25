@@ -3,10 +3,23 @@ project:
 
 book:
   title: "Ethnofishecology"
+  subtitle: "Bridging Traditional Knowledge and Modern Fisheries Science"
+  date: today
   chapters:
-    - index.md
-    - chapter1_foundations.md
-    - chapter2_emergence.md
-    - chapter3_integration.md
-    - chapter4_modern_management.md
-    - chapter5_future.md
+    - index.qmd
+    - chapter1_foundations.qmd
+    - chapter2_emergence.qmd
+    - chapter3_integration.qmd
+    - chapter4_modern_management.qmd
+    - chapter5_future.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    toc: true

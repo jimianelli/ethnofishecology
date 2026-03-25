@@ -1,0 +1,23 @@
+---
+title: "Preface"
+---
+
+## About This Book
+
+This book was born from a desire to capture something that often slips between disciplinary cracks: the full arc of human knowledge about fish — from the intimate, place-based wisdom of traditional fishing peoples to the quantitative frameworks of contemporary fisheries science. It began as a brainchild for documenting that arc systematically, recognizing that the insights held in oral traditions, seasonal practices, and community-embedded observation are not mere precursors to "real" science, but are in many cases irreplaceable data about ecosystems over timescales no modern monitoring program can match.
+
+The impetus was simple: too many fisheries assessments proceed as though the history of human engagement with a stock begins at the first trawl survey. This book pushes back on that assumption. From handline fishers in the Pacific to gill-net communities in the North Atlantic, people have been reading fish behavior, tracking abundance, and adapting gear across generations. Capturing those insights — and understanding how they connect to, complement, and sometimes challenge modern methods — is the central project of ethnofishecology.
+
+## Scope and Structure
+
+This book explores the evolving relationship between humans and fisheries ecosystems, synthesizing insights from anthropology, ichthyology, human ecology, economics, and environmental science. It introduces the emerging field of ethnofishecology, maps its historical development, and highlights future directions.
+
+The chapters include:
+
+- **Foundations** — defines the scope of ethnofishecology, describing traditional fishing practices, folk knowledge, and early cultural connections between people and fish.
+- **Emergence of ethnofishecology** — covers the formal recognition of human–fish studies in the late 20th century, including early case studies and debates over local vs. scientific knowledge.
+- **Integration with human ecology and ethnoecology** — examines socio-ecological models, local ecological knowledge, and co-management of fisheries.
+- **Modern ecosystem-based and human-integrated management** — describes recent frameworks such as NOAA's Human-Integrated Ecosystem-Based Fishery Management and the shift towards interdisciplinary, socio-ecological resilience.
+- **Future directions** — looks ahead to challenges like climate change, equity, participatory modelling, new data tools, and urban and recreational fisheries.
+
+We hope this book provides a foundation for researchers and practitioners interested in understanding and contributing to the field of ethnofishecology.
