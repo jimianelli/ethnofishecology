@@ -24,3 +24,7 @@ The chapters include:
 - **Future directions** — looks ahead to challenges like climate change, equity, participatory modelling, new data tools, and changing recreational participation.
 
 The current manuscript is intentionally synthetic. It is meant to provide a usable starting point for researchers and practitioners who want a clearer conceptual bridge between fisheries science, ethnobiology, and the study of fishing communities as ecological actors.
+
+## Note on Development
+
+Much of the original compilation of this manuscript was aided by artificial intelligence. The core ideas, framing, and direction of the project originated with the author, while AI tools were used primarily to help expand prose, organize material, surface connections across literatures, and accelerate drafting. The resulting text should therefore be understood as author-directed and AI-assisted rather than as an independently generated work.
