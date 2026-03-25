@@ -4,7 +4,7 @@ title: "Foundations of Ethnofishecology"
 
 ## Introduction
 
-Ethnofishecology examines the relationships between human cultures and fisheries and asks how those relationships shape ecological outcomes. It draws on anthropology, fisheries science, and marine ecology to explain how people know, use, classify, and govern fish across time and place. Recent reviews in ethnobiology and ethnoichthyology make clear that fish knowledge is not only symbolic or folkloric; it is also embedded in labour, gear design, taxonomy, and repeated observation of local environments (Begossi and Caires 2015; Svanberg and Locker 2020).
+Ethnofishecology examines the relationships between human cultures and fisheries and asks how those relationships shape ecological outcomes. It draws on anthropology, fisheries science, and marine ecology to explain how people know, use, classify, and govern fish across time and place. Recent reviews in ethnobiology and ethnoichthyology make clear that fish knowledge is not only symbolic or folkloric; it is also embedded in labour, gear design, taxonomy, and repeated observation of local environments (Begossi and Caires 2015; Svanberg and Locker 2020). Robert E. Johannes's *Words of the Lagoon* is an important precursor to this framing because its central theme is that fishers' marine lore can encode detailed ecological knowledge about behaviour, habitat, and seasonality that deserves analytical attention rather than dismissal (Johannes 1981).
 
 ## Definition and Scope
 
@@ -39,4 +39,5 @@ Understanding the foundations of ethnofishecology clarifies why fishing knowledg
 ## References
 
 - Begossi, A., and R. Caires. 2015. "Art, fisheries and ethnobiology." *Journal of Ethnobiology and Ethnomedicine* 11. <https://ethnobiomed.biomedcentral.com/articles/10.1186/1746-4269-11-17>
+- Johannes, R. E. 1981. *Words of the Lagoon: Fishing and Marine Lore in the Palau District of Micronesia*. Berkeley: University of California Press.
 - Svanberg, I., and A. Locker. 2020. "Ethnoichthyology of freshwater fish in Europe: a review of vanishing traditional fisheries and their cultural significance in changing landscapes from the later medieval period with a focus on northern Europe." *Journal of Ethnobiology and Ethnomedicine* 16. <https://doi.org/10.1186/s13002-020-00410-3>

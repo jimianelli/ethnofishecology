@@ -8,6 +8,8 @@ This book was born from a desire to capture something that often slips between d
 
 The impetus was simple: fisheries management often privileges the period covered by formal monitoring, even when communities hold much longer records of seasonality, habitat use, gear selectivity, and local change. From handline fishers in the Pacific to gill-net communities in the North Atlantic, people have long tracked fish behaviour, abundance, and ecological change through repeated practice. Understanding how those observations connect to, complement, and sometimes challenge modern methods is the central project of ethnofishecology.
 
+That premise closely parallels Robert E. Johannes's 1981 book *Words of the Lagoon: Fishing and Marine Lore in the Palau District of Micronesia*, which treated fishers' marine lore, terminology, and repeated place-based observation as serious ecological evidence rather than anecdotal background.
+
 ## Scope and Structure
 
 This book explores the evolving relationship between humans and fisheries ecosystems, synthesizing insights from anthropology, ichthyology, human ecology, economics, and environmental science. It introduces the emerging field of ethnofishecology, maps its historical development, and highlights future directions.
