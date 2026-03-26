@@ -14,7 +14,7 @@ Evidence for pre-industrial fisheries comes from several partial archives: museu
 
 For that reason, the chapter treats fishing technologies as socio-ecological systems rather than isolated artifacts. The emphasis is on what these methods reveal about selectivity, habitat knowledge, labour, and continuity.
 
-For the Pacific Islands in particular, Robert D. Gillett's work provides one of the strongest bridges between historical and contemporary fisheries analysis. His FAO syntheses treat coastal fishing not as a marginal remnant, but as a central part of Pacific Island food systems, culture, and employment, while also documenting the major types of coastal fishing and their relationship to offshore tuna development (Gillett 2011; Gillett 2010). His short history of industrial fishing in the Pacific Islands is especially useful for ethnofishecology because it shows how older inshore and reef-based methods were not simply replaced by industrial systems; rather, they persisted alongside, and were transformed by, later commercial and tuna-centered fisheries development (Gillett 2007).
+For the Pacific Islands in particular, Robert D. Gillett's work provides one of the strongest bridges between historical and contemporary fisheries analysis. His FAO syntheses treat coastal fishing not as a marginal remnant, but as a central part of Pacific Island food systems, culture, and employment, while also documenting the major types of coastal fishing and their relationship to offshore tuna development (Gillett 2011; Gillett 2010). His short history of industrial fishing in the Pacific Islands is especially useful for ethnofishecology because it shows how older inshore and reef-based methods were not simply replaced by industrial systems; rather, they persisted alongside, and were transformed by, later commercial and tuna-centered fisheries development (Gillett 2007). His earlier case studies of traditional tuna fishing in Tokelau and at Satawal are also valuable because they document tuna-specific techniques, gear, and ecological knowledge at island scale (Gillett 1985; Gillett 1987).
 
 ## Why Historical Methods Matter
 
@@ -49,6 +49,8 @@ Pre-industrial fisheries deserve a full chapter because they supply texture that
 - British Museum. "fishing-kite" (Oc,RHC.29). <https://www.britishmuseum.org/collection/object/E_Oc-RHC-29>
 - Columbia River Inter-Tribal Fish Commission. "Fishing Techniques." <https://critfc.org/salmon-culture/tribal-salmon-culture/fishing-techniques/>
 - DigitalNZ / Auckland War Memorial Museum Tamaki Paenga Hira. "Te utuao." <https://digitalnz.org/records/36681664>
+- Gillett, R. 1985. *Traditional Tuna Fishing in Tokelau*.
+- Gillett, R. 1987. *Traditional Tuna Fishing: a study at Satawal, Central Caroline Islands*. *Bishop Museum Bulletins in Anthropology* 1.
 - Gillett, R. 2007. *A short history of industrial fishing in the Pacific Islands*. FAO Regional Office for Asia and the Pacific. <https://www.fao.org/4/ai001e/ai001e00.htm>
 - Gillett, R. 2010. *Marine fishery resources of the Pacific Islands*. FAO Fisheries and Aquaculture Technical Paper No. 537. <https://www.fao.org/4/i1452e/i1452e00.htm>
 - Gillett, R. 2011. *Fisheries of the Pacific Islands: regional and national information*. FAO Regional Office for Asia and the Pacific. <https://www.fao.org/4/i2092e/i2092e00.htm>
