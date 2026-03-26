@@ -1,22 +1,28 @@
 ---
-title: "The Evolution and Importance of Sport and Recreational Fishing"
+title: "The Evolution and Importance of non-commercial fishing"
 ---
 
 ## Introduction
 
-Sport and recreational fishing deserve their own chapter because they are no longer peripheral to fisheries systems. In many industrialized societies, recreational fishing is a dominant or sole user of inland fish stocks and an increasingly important user of coastal stocks as well. It is also a domain where fishing is valued not only for food, but for leisure, identity, skill, competition, tourism, conservation funding, and connection to nature (Arlinghaus 2006; Arlinghaus et al. 2019).
+Non-commercial fishing, which includes subsistence, sustenance, sport and recreational fishing deserve their own chapter because they are such important systems. In many industrialized societies, non-commercial fishing is a dominant or sole user of inland fish stocks and an increasingly important user of coastal stocks as well. It is also a domain where fishing is valued not only for food, but for leisure, identity, skill, competition, tourism, conservation funding, and connection to nature (Arlinghaus 2006; Arlinghaus et al. 2019).
 
-For ethnofishecology, this matters because recreational fisheries make the cultural dimensions of fishing especially visible. Decisions about what constitutes a good catch, whether fish should be harvested or released, how access should be allocated, and what kinds of experiences matter are all socially shaped. Recreational fisheries therefore reveal how fisheries management is not simply about biomass extraction, but also about the governance of values, practices, and expectations.
+For ethnofishecology, this matters because non-commercial fisheries make the cultural dimensions of fishing especially visible. Decisions about what constitutes a good catch, whether fish should be harvested or released, how access should be allocated, and what kinds of experiences matter are all socially shaped. non-commercial fisheries therefore reveal how fisheries management is not simply about biomass extraction, but also about the governance of values, practices, and expectations.
 
 ## Methods and Evidence
 
-The literature on recreational fisheries draws from ecology, economics, psychology, sociology, and management science. It includes angler surveys, creel surveys, harvest and effort monitoring, economic impact assessments, and studies of behavior, ethics, and policy. That mix of methods is necessary because recreational fishing is a coupled social-ecological system: fish populations, regulations, travel behavior, technology, and cultural meaning all interact.
+The literature on non-commercial fisheries draws from ecology, economics, psychology, sociology, and management science. It includes angler surveys, creel surveys, harvest and effort monitoring, economic impact assessments, and studies of behavior, ethics, and policy. That mix of methods is necessary because recreational fishing is a coupled social-ecological system: fish populations, regulations, travel behavior, technology, and cultural meaning all interact.
 
 In U.S. marine systems, NOAA's Marine Recreational Information Program and associated economic reporting provide the clearest official infrastructure for measuring participation, catch, and spending. More globally, review literature by Arlinghaus, Cooke, Cowx, and collaborators has helped define recreational fisheries as a serious field of management and conservation rather than a minor leisure issue.
 
 ## Historical Evolution
 
-Modern sport fishing did not emerge from nowhere. It developed out of older elite and subsistence traditions, but expanded dramatically with industrialization, urbanization, mass-produced tackle, motorized mobility, and growing leisure time. Over time, recreational fishing became less tied to simple food acquisition and more tied to specialized techniques, tournament culture, charter operations, destination travel, and species-specific identities.
+Modern sport fishing arguably developed out of subsistence traditions. It
+expanded dramatically with industrialization, urbanization, 
+mass-produced tackle, motorized mobility, and growing leisure 
+time. Over time, recreational fishing became less tied to 
+simple food acquisition and more tied to specialized 
+techniques, tournament culture, charter operations, 
+destination travel, and species-specific identities.
 
 One of the clearest signs of that evolution is the rise of catch-and-release. Arlinghaus and colleagues describe catch-and-release not just as a technical practice, but as a historically layered ethical and managerial shift in which fish can be pursued for challenge, experience, and stewardship without necessarily being retained (Arlinghaus et al. 2007). That shift has been reinforced by harvest regulations, conservation campaigns, and trophy-oriented angling cultures, even though harvest for food remains a major motive for many recreational fishers.
 
@@ -29,6 +35,10 @@ Recreational fishing matters because of scale. Arlinghaus and colleagues argue t
 It also matters economically. NOAA reports that in 2023 U.S. saltwater recreational fishing generated $145.4 billion in sales impacts, $78.4 billion in value-added impacts, and supported 694,041 full- and part-time jobs, with major contributions from charter operations, bait and tackle, boats, and travel spending (NOAA Fisheries 2026). These figures help explain why recreational fisheries are politically consequential even when they are not the dominant source of seafood.
 
 Finally, recreational fishing matters culturally. NOAA's recreational fishing policy framework explicitly treats it as both a conservation contributor and an important economic driver, while also acknowledging that it introduces stewardship challenges and allocation conflicts (NOAA Fisheries 2025). In practical terms, recreational fisheries often connect children and new participants to aquatic environments, create durable local traditions, and generate constituencies for habitat protection, stocking, and access maintenance.
+
+At the same time, ethnofishecology should not let the category of recreational fishing stand in for the whole non-commercial sector. Non-commercial fishing also includes subsistence, sustenance, and traditional fisheries in which fishing is oriented toward household food, sharing networks, cultural continuity, and customary obligations rather than leisure alone. These forms can overlap with sport and recreational fishing in gear, location, and season, but they differ in social purpose and in the meanings attached to harvest, access, and responsibility.
+
+Using the broader term non-commercial fishing therefore matters analytically and politically. It makes room for sport and recreational fisheries while also recognizing fishers whose practices are not well described by the language of recreation, especially in Indigenous, island, and rural communities. It also highlights a recurring problem in management: agencies often have better data and more developed policy frameworks for recreational fishing than for subsistence and sustenance uses, even when those uses are central to food security and cultural life.
 
 ## Management, Conflict, and Allocation
 
