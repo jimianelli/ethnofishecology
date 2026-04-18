@@ -1,0 +1,29 @@
+---
+title: "Emergence of Ethnofishecology (1960s–1980s)"
+---
+
+## Introduction
+
+This chapter is research background rather than a claim that ethnofishecology existed as a bounded field in the 1960s–1980s. The defensible point is that scholars in maritime anthropology, ethnobiology, and fisheries sociology produced adjacent lines of work that treated fishing communities as analytically central to fisheries systems. This book uses ethnofishecology to recognize, gather, and bind those contributions into a more legible conversation about knowledge, practice, and ecological change.
+
+::: {.callout-tip}
+## A note on the timeline
+
+The decades in the chapter title mark when the adjacent literatures matured, not when a single "ethnofishecology" discipline began. Chapter 3 (@fig-timeline) shows how those strands converge into the coupling frame this book adopts.
+:::
+
+## Methods and Evidence
+
+The relevant background is best reconstructed through comparative historical synthesis. Evidence includes ethnographic studies of fishing communities, archival material on artisanal fisheries, and early work on fishers' ecological knowledge. Read this way, the period is not the origin story of a single discipline. It is a convergence of literatures that began to ask related questions about how people know fish, organize fishing, and negotiate the relationship between lived practice and formal management.
+
+## Key Themes
+
+- **Formal recognition of ethnoichthyology.** Work under the banner of ethnoichthyology provided a vocabulary for studying human knowledge of fish and fish-related practices across cultures. It linked species classification, use, symbolism, and practical fishing knowledge, and it established fish as a legitimate focus within ethnobiology rather than a niche topic within natural history [@svanberg2020].
+- **A precursor text on marine knowledge.** Robert E. Johannes's *Words of the Lagoon* offered a strong early demonstration of the ideas that animate this book. By documenting how Palauan fishers organized marine lore through named places, species knowledge, behaviour, and fishing practice, it showed that local knowledge could function as cumulative ecological evidence rather than informal anecdote [@johannes1981].
+- **Maritime anthropology and human ecology.** Anthropologists studying coastal and riverine communities increasingly described fisheries as coupled social and ecological systems. This shift redirected attention toward household strategy, labour allocation, seasonal movement, and the institutional settings in which fishing decisions were made.
+- **Local knowledge versus scientific management.** The period also exposed a recurring tension between local observation and centralized management. Newfoundland research later showed that interviews with fishers could recover information about cod behaviour, spawning areas, changing catchability, and rising fishing efficiency that standard assessment inputs had missed or underweighted [@neis1999].
+- **Artisanal fisheries and cultural heritage.** Historical work on European freshwater fisheries reinforced the point that artisanal fisheries were not marginal survivals. They were durable systems of livelihood, knowledge transmission, and local governance, even when later industrial and regulatory changes rendered them less visible in mainstream fisheries science [@svanberg2020].
+
+## Conclusion
+
+Taken together, this background justifies ethnofishecology as a synthetic frame for the present work. The aim is not to rename or overwrite maritime anthropology, ethnobiology, or fisheries sociology. It is to make their overlap visible in the context of fisheries science and management. Drawing those strands together prepares the ground for later discussion of co-management, adaptive governance, and mixed-methods ecological inference.

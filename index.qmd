@@ -8,7 +8,7 @@ This book was born from a desire to capture something that often slips between d
 
 The impetus was simple: fisheries management often privileges the period covered by formal monitoring, even when communities hold much longer records of seasonality, habitat use, gear selectivity, and local change. From handline fishers in the Pacific to gill-net communities in the North Atlantic, people have long tracked fish behaviour, abundance, and ecological change through repeated practice. Understanding how those observations connect to, complement, and sometimes challenge modern methods is the central project of ethnofishecology.
 
-That premise closely parallels Robert E. Johannes's 1981 book *Words of the Lagoon: Fishing and Marine Lore in the Palau District of Micronesia*, which treated fishers' marine lore, terminology, and repeated place-based observation as serious ecological evidence rather than anecdotal background.
+That premise closely parallels Robert E. Johannes's *Words of the Lagoon: Fishing and Marine Lore in the Palau District of Micronesia* [@johannes1981], which treated fishers' marine lore, terminology, and repeated place-based observation as serious ecological evidence rather than anecdotal background.
 
 ## Scope and Structure
 
@@ -17,13 +17,15 @@ This book explores the evolving relationship between humans and fisheries ecosys
 The chapters include:
 
 - **Concept note** — frames the problem, objective, and initial research agenda for ethnofishecology as a field-building project.
-- **Foundations** — defines the scope of ethnofishecology, describing traditional fishing practices, folk knowledge, and early cultural connections between people and fish.
-- **Emergence of ethnofishecology** — covers the formal recognition of human–fish studies in the late 20th century, including early case studies and debates over local vs. scientific knowledge.
-- **Integration with human ecology and ethnoecology** — examines socio-ecological models, local ecological knowledge, and co-management of fisheries.
-- **Pre-industrial fisheries and historical methods** — documents distinctive fishing technologies such as kite fishing, eel traps, dipnets, weirs, spears, and harpoons as records of ecological knowledge embedded in craft.
-- **Modern ecosystem-based and human-integrated management** — describes recent frameworks such as NOAA's Human-Integrated Ecosystem-Based Fishery Management and the shift towards interdisciplinary, socio-ecological resilience.
-- **Sport and recreational fishing** — examines the rise of angling and charter fisheries as major cultural, economic, and management domains with their own ethics, conflicts, and ecological effects.
-- **Future directions** — looks ahead to challenges like climate change, equity, participatory modelling, new data tools, and changing recreational participation.
+- **Chapter 1. Foundations** — defines the scope of ethnofishecology, describes traditional fishing practices and folk knowledge, and positions the field alongside ethnoichthyology, ethnobiology, maritime anthropology, human ecology, and fisheries science.
+- **Chapter 2. Emergence (1960s–1980s)** — reconstructs the adjacent literatures that treated fishing communities as analytically central to fisheries systems, from maritime anthropology to early fishers' knowledge research.
+- **Chapter 3. Integration with human ecology and ethnoecology (1990s–2000s)** — examines socio-ecological models, local ecological knowledge, co-management, and stewardship incentives in small-scale fisheries.
+- **Chapter 4. Pre-industrial fisheries and historical methods** — documents distinctive fishing technologies such as kite fishing, eel traps, dipnets, weirs, spears, and harpoons as records of ecological knowledge embedded in craft.
+- **Chapter 5. Modern ecosystem-based and human-integrated management (2010s–present)** — describes frameworks such as NOAA's Human-Integrated Ecosystem-Based Fishery Management, bycatch utilization, catch shares, and the shift toward socio-ecological trade-off analysis.
+- **Chapter 6. Non-commercial fishing** — examines subsistence, sustenance, sport, and recreational fisheries as major cultural, economic, and management domains with their own ethics, conflicts, and ecological effects.
+- **Chapter 7. Research ethics and data sovereignty** — sets out CARE and FAIR principles, consent, attribution, benefit-sharing, and the institutional practices needed to work with community knowledge responsibly.
+- **Chapter 8. Methods for integrating cultural and quantitative evidence** — shows how ethnographic and local-knowledge data can enter stock assessments and management strategy evaluation through priors, selectivity inputs, structured elicitation, and explicit uncertainty.
+- **Chapter 9. Future directions** — looks ahead to climate change, equity, participatory modelling, new data tools, and the next decade of ethnofishecological practice.
 
 The current manuscript is intentionally synthetic. It is meant to provide a usable starting point for researchers and practitioners who want a clearer conceptual bridge between fisheries science, ethnobiology, and the study of fishing communities as ecological actors.
 

@@ -1,0 +1,141 @@
+---
+title: "Methods for Integrating Cultural and Quantitative Evidence"
+---
+
+## Introduction
+
+Earlier chapters argue that cultural knowledge, historical practice, and community observation should count as interpretable ecological evidence. This chapter shows how to make that argument operational. It lays out concrete integration points between ethnographic evidence and the quantitative tools that drive modern fisheries science — stock assessment, management strategy evaluation (MSE), and the supporting inference machinery in ADMB, TMB, and RTMB [@fournier2012admb; @kristensen2016tmb]. The objective is not to replace ethnographic rigor with quantitative rigor; it is to give ethnofishecology a repeatable workflow so that local and traditional knowledge can inform decisions without being flattened into false precision.
+
+::: {.callout-important}
+## Scope of this chapter
+
+This chapter assumes the ethical foundation laid out in Chapter 7. Any quantitative integration is legitimate only when the underlying consent, attribution, and benefit-sharing arrangements are in place. The mechanics described here are necessary but not sufficient.
+:::
+
+## Where Cultural Evidence Can Enter an Assessment
+
+Stock assessments and MSEs are assembled from many modular pieces. Each of those pieces is a place where cultural evidence can contribute, provided the contribution is stated explicitly and carries its own uncertainty. @tbl-entry-points summarizes the main integration points.
+
+| Assessment component | Typical input | What cultural evidence can add | Recommended treatment |
+|-----|-----|-----|-----|
+| Stock structure | Genetics, tagging, oceanography | Named grounds, seasonality, run timing, spawning sites | Hypothesis framing, boundary priors |
+| Selectivity | Gear experiments, length comps | Gear history, targeting behaviour, mesh practice | Shape priors on selectivity curves |
+| Catchability and effort | CPUE series, effort data | Fleet learning, spatial targeting, crew choices | Time-varying q priors, effort covariates |
+| Recruitment | Survey indices, environmental covariates | Observed year-class strength, unusual conditions | Qualitative anomaly priors |
+| Natural mortality | Life history, tagging | Predation reports, disease observation | Plausibility bounds on M |
+| Life history | Growth, maturity studies | Spawning-site knowledge, maturation timing | Priors on maturity-at-age |
+| Discards and bycatch | Observer data | Retention customs, market drivers, discard practice | Informing discard mortality assumptions |
+| Management objectives | Agency mandate | Community-defined values and trade-offs | Additional MSE performance metrics |
+| Reference points | Biological benchmarks | Culturally meaningful benchmarks | Complementary performance criteria |
+
+: Entry points for cultural evidence in a fisheries assessment or MSE. {#tbl-entry-points}
+
+## Elicitation Workflow
+
+Cultural evidence rarely arrives as a probability distribution, so the first methodological task is structured elicitation. The workflow below is adapted from expert-elicitation practice [@ohagan2006] but reframed for fishers, Indigenous knowledge holders, and community members rather than only credentialed experts.
+
+1. **Scope.** Define the quantity of interest in language the knowledge holder uses (e.g., "when the first big run arrives," not "peak spawning migration").
+2. **Co-design the elicitation.** Work with community partners to decide who is asked, how, and in what setting. Group, pair, and individual formats reveal different knowledge.
+3. **Anchor the scale.** Ground the question in observable phenomena — years, tides, seasons, named places, catch composition — rather than abstract units.
+4. **Elicit central tendency and range.** Ask for the typical value, the best year remembered, the worst year, and the transition points. Record uncertainty qualitatively.
+5. **Translate to distributional form.** Convert the response into a distribution (often triangular, beta, or log-normal) using a simple rule that is documented and reproducible.
+6. **Validate.** Show the translation back to the knowledge holder and ask whether it fits their understanding. Revise as needed.
+7. **Archive.** Store the elicitation record, translation rule, and version so that later analyses can cite and audit it.
+
+This workflow takes qualitative material seriously without pretending it is a survey measurement.
+
+## Building Priors from Local Knowledge
+
+Many entry points in @tbl-entry-points are best implemented as informative priors. Two patterns are common.
+
+**Shape priors on selectivity.** Community knowledge of mesh sizes, hook sizes, and targeting behaviour is often richer than a short gear study. When a fishery has moved from one dominant gear to another, a selectivity-at-age curve with a cultural prior on its position parameter can prevent the estimator from drifting into implausible shapes during sparse years.
+
+**Plausibility bounds on mortality.** Knowledge of predator abundance, disease observations, or mass-mortality events can set plausibility bounds on natural mortality in years where no direct estimate exists. The bounds are not a point estimate; they are a prior with enough mass outside the implausible range to pull the posterior away from unrealistic values.
+
+The simplest implementation is Bayesian. ADMB supports penalized likelihood with user-coded priors; TMB and RTMB support explicit priors through the negative log-density; and R packages such as `tmbstan` make posterior sampling straightforward once a TMB template is written. The practical discipline is to record each prior with its source, its elicitation date, and its form so that sensitivity analyses can vary it transparently.
+
+## A Small Worked Example
+
+The example below is illustrative rather than a production assessment. It fits a simple age-structured model with a logistic selectivity curve and uses a community-informed prior on the age at 50% selectivity (`a50`). The prior is justified by interviews that reported consistent use of a mesh size known to escape sub-adults of a given length.
+
+```{r}
+#| label: ex-rtmb-prior
+#| eval: false
+#| echo: true
+#| warning: false
+#| message: false
+
+library(RTMB)
+
+# --- Synthetic inputs ---
+ages   <- 1:12
+years  <- seq_len(30)
+obs_C  <- structure(rep(100, length(ages) * length(years)),
+                    dim = c(length(ages), length(years)))
+
+# Community-informed prior on a50 (age at 50% selectivity)
+# Interview-based central value of 4 with modest spread; see elicitation record v1.
+a50_prior_mean <- 4.0
+a50_prior_sd   <- 0.7
+
+# --- RTMB model ---
+make_nll <- function(pars) {
+  getAll(pars)
+  sel <- 1 / (1 + exp(-(ages - a50) / max(sel_slope, 1e-6)))
+  mu_C <- outer(sel, exp(logN), "*")
+
+  nll  <- -sum(dnorm(log(obs_C + 1), log(mu_C + 1), obs_sd, log = TRUE))
+
+  # Community-informed prior on a50
+  nll <- nll - dnorm(a50, a50_prior_mean, a50_prior_sd, log = TRUE)
+
+  nll
+}
+
+pars <- list(
+  a50       = 4.0,
+  sel_slope = 1.0,
+  logN      = rep(log(1e6), length(years)),
+  obs_sd    = 0.3
+)
+
+obj <- MakeADFun(make_nll, pars, silent = TRUE)
+opt <- nlminb(obj$par, obj$fn, obj$gr)
+sdr <- sdreport(obj)
+```
+
+Two things matter here, and neither is the code itself. First, the prior is labelled and sourced so that a reviewer can trace its provenance. Second, the same template can run with and without the prior, making it easy to report how much cultural evidence is actually moving the estimate. That pair of habits — provenance plus sensitivity — is what turns an informal claim into a defensible assessment input.
+
+## Uncertainty Propagation and Sensitivity
+
+Once cultural evidence enters the model as priors, likelihoods, or scenario inputs, its influence should be tracked through the usual uncertainty machinery. Three practices are essential.
+
+**Prior sensitivity.** Run the assessment with the community-informed prior, with a diffuse alternative, and with a deliberately contradictory prior. Report how the posterior and key reference points shift. If the cultural input makes no difference, say so; if it dominates, say that as well.
+
+**Elicitation uncertainty.** Treat the prior's parameters (mean, scale, shape) as themselves uncertain. A hierarchical prior or a small grid over elicitation summaries is often enough.
+
+**Narrative audit.** For each informative prior or cultural input, produce a short written statement — one paragraph at most — that names the source, the elicitation date, the translation rule, and the alternative that was tested. This audit trail is what allows a reviewer to distinguish evidence-based priors from author judgement [@kruschke2018].
+
+## Incorporating Cultural Objectives into MSE
+
+MSE is the natural home for cultural evidence that does not fit inside a single likelihood [@punt2016]. Three extensions are particularly useful.
+
+**Cultural performance metrics.** Alongside standard metrics (yield, biomass, probability of overfishing), MSE can report metrics the community has defined: consistency of seasonal access, protection of named sites, retention of a given mix of species, or stability of employment in a specific port.
+
+**Community-defined scenarios.** Operating models can include scenarios that reflect community-identified risks, such as a shift in run timing, a loss of access to a nearshore ground, or a change in processing capacity that forces discarding of formerly retained species.
+
+**Participatory interpretation.** Results are presented back to the community in a format that makes trade-offs visible. The same MSE that reports biological performance can report cultural performance side by side, making the trade-off legible instead of implicit.
+
+The point is not to inflate the number of objectives until nothing passes. It is to make the objectives the community already holds part of the formal decision space rather than informal pressure on managers.
+
+## Limitations and Failure Modes
+
+Two failure modes deserve explicit attention.
+
+The first is spurious precision. Translating a nuanced oral account into a narrow prior can give the appearance of strong evidence where there is actually careful qualitative observation. The remedy is a widely supported prior scale, explicit sensitivity runs, and a written narrative that makes the caveat visible.
+
+The second is one-way extraction. A community contributes knowledge, the model runs, and the community never sees the result. The remedy is built into the ethics chapter: results return to the community, with time for revision, before the assessment is finalized.
+
+## Conclusion
+
+Ethnofishecology becomes decision-relevant when its evidence enters the same tools the rest of the field already uses — assessments, MSEs, and the inference machinery that supports them. The workflow in this chapter (elicitation, priors, sensitivity, MSE objectives, participatory interpretation) is not a new statistical theory. It is a commitment to discipline: name the source, propagate the uncertainty, report the alternative, and close the loop. That is what turns cultural evidence from background context into a usable assessment input.

@@ -5,6 +5,7 @@ project:
 book:
   title: "Ethnofishecology"
   subtitle: "Bridging Traditional Fishing Methods and Knowledge to Current Practices"
+  author: "Jim Ianelli"
   date: last-modified
   repo-url: https://github.com/jimianelli/ethnofishecology
   downloads:
@@ -12,13 +13,20 @@ book:
   chapters:
     - index.qmd
     - concept_note.qmd
-    - chapter1_foundations.qmd
-    - chapter2_emergence.qmd
-    - chapter3_integration.qmd
-    - chapter4_preindustrial.qmd
-    - chapter4_modern_management.qmd
-    - chapter5_noncommercial.qmd
-    - chapter5_future.qmd
+    - 01_foundations.qmd
+    - 02_emergence.qmd
+    - 03_integration.qmd
+    - 04_preindustrial.qmd
+    - 05_modern_management.qmd
+    - 06_noncommercial.qmd
+    - 07_ethics.qmd
+    - 08_methods.qmd
+    - 09_future.qmd
+
+bibliography: references.bib
+csl: https://www.zotero.org/styles/american-fisheries-society
+
+lang: en
 
 format:
   html:

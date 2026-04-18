@@ -1,0 +1,62 @@
+---
+title: "Integration with Human Ecology and Ethnoecology (1990s–2000s)"
+---
+
+## Introduction
+
+During the 1990s and 2000s, ethnofishecology began integrating more explicitly with human ecology and ethnoecology, recognizing that fisheries are dynamic socio-ecological systems. Researchers increasingly asked how local practice, ecological feedback, and governance co-produced outcomes. The result was a move from description alone toward frameworks that could explain adaptation, learning, and institutional change.
+
+::: {.callout-note}
+## What integration means here
+
+Integration does not mean that local ecological knowledge was reduced to a proxy for survey data. It means that scientific and local knowledge were paired, triangulated, and treated as complementary sources of evidence with their own uncertainties.
+:::
+
+## A short timeline of the field's intellectual strands
+
+```{r}
+#| label: fig-timeline
+#| fig-cap: "Convergence of adjacent literatures into ethnofishecology as a coupling frame. Bars indicate the decades when each strand matured; overlaps show where the strands began to inform each other."
+#| echo: false
+#| warning: false
+#| fig-width: 8
+#| fig-height: 3.2
+
+library(ggplot2)
+library(dplyr)
+
+strands <- tibble::tribble(
+  ~strand,                                  ~start, ~end,
+  "Maritime & fisheries anthropology",       1960,   2025,
+  "Ethnoichthyology / ethnobiology",         1970,   2025,
+  "Fishers' ecological knowledge research",  1980,   2025,
+  "Co-management & human ecology",           1990,   2025,
+  "Socio-ecological / resilience science",   2000,   2025,
+  "Ethnofishecology (this book)",            2020,   2025
+)
+
+ggplot(strands, aes(y = forcats::fct_rev(factor(strand, levels = strand)))) +
+  geom_segment(aes(x = start, xend = end, yend = forcats::fct_rev(factor(strand, levels = strand))),
+               linewidth = 4, color = "#2a6f97") +
+  scale_x_continuous(limits = c(1955, 2030), breaks = seq(1960, 2020, 10)) +
+  labs(x = NULL, y = NULL) +
+  theme_minimal(base_size = 11) +
+  theme(panel.grid.minor = element_blank(),
+        panel.grid.major.y = element_blank(),
+        plot.margin = margin(5, 15, 5, 5))
+```
+
+## Methods and Evidence
+
+The integration phase was defined by mixed methods. Ethnographic observation, interviews, participatory mapping, and oral-history approaches were paired with catch records, habitat information, and other ecological data. This made local ecological knowledge legible to interdisciplinary research without reducing it to a simple proxy for survey data. Reviews from the period emphasize validation, triangulation, and co-production rather than a binary choice between scientific and local knowledge [@begossi2015ethnoecology; @berkstrom2019].
+
+## Key Themes
+
+- **Human ecological models and cultural adaptation.** Human ecological models described how communities adapt to changes in stocks, markets, and governance. In the fisheries literature, the Cultural Adaptation Template organized feedback among ecological information, collaborative process, and food security rather than treating fishery behaviour as a static response to prices or biomass alone [@begossi2015ethnoecology].
+- **Local ecological knowledge and co-management.** Researchers documented how fishers and Indigenous communities hold detailed knowledge about habitat connectivity, seasonal migration, and fishing grounds. That knowledge proved particularly useful in data-poor settings and in participatory management processes where legitimacy depended on more than biological accuracy [@berkstrom2019; @dearmengol2018]. The edited volume *Fishers' Knowledge in Fisheries Science and Management* consolidated much of this case-study evidence and set expectations for what fishers' knowledge could contribute to formal assessment [@haggan2007].
+- **Incentives and stewardship.** The period broadened the discussion to stewardship incentives, including payments for environmental services and other mechanisms that reward conservation behaviour. These ideas were not framed as universal solutions but as ways to align ecological goals, fisher incentives, and local institutional capacity in small-scale fisheries [@begossi2015ethnoecology].
+- **Historical and global perspectives.** Comparative work across regions showed that artisanal knowledge systems remained analytically important even under rapid modernization. The point was not nostalgia. Contemporary management still depends on understanding historically sedimented fishing practices and institutions.
+
+## Conclusion
+
+The integration phase expanded ethnofishecology beyond description to incorporate models, participatory processes, and incentive design. By linking human ecology with fisheries research, scholars developed tools for asking how communities respond to ecological change and how collaborative management systems can use local knowledge without romanticizing it.

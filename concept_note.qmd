@@ -2,9 +2,15 @@
 title: "Concept Note"
 ---
 
+::: {.callout-note}
+## What this note is
+
+A one-page framing of the problem, objective, and research agenda for ethnofishecology. Longer treatments follow in the chapters listed below.
+:::
+
 ## Problem
 
-Fisheries science relies heavily on quantitative stock assessment and fishery-independent monitoring, but it often under-represents the culturally embedded knowledge and practices that shape fishing effort, selectivity, and ecological outcomes. That omission matters most where long time series are sparse, governance is contested, or behavioural change is driving ecological change faster than standard data systems can explain.
+Fisheries science relies heavily on quantitative stock assessment and fishery-independent monitoring, but it under-represents the culturally embedded knowledge and practices that shape fishing effort, selectivity, and ecological outcomes. That omission matters most where long time series are sparse, governance is contested, or behavioural change drives ecological change faster than standard data systems can explain.
 
 ## Objective
 
@@ -14,11 +20,12 @@ Establish ethnofishecology as a field that treats cultural knowledge and fishing
 
 - Systematize cultural practice data (gear, timing, spatial patterns, rules, narratives).
 - Link those data to ecological mechanisms (selectivity, recruitment exposure, habitat use).
-- Integrate with assessments through structured inference and explicit uncertainty.
+- Integrate with assessments through structured inference and explicit uncertainty (Chapter 8).
+- Govern that integration with CARE and FAIR principles (Chapter 7).
 
 ## Expected Outcomes
 
-- Potentially more accurate representation of fishing dynamics where behaviour and local practice are poorly captured.
+- More accurate representation of fishing dynamics where behaviour and local practice are poorly captured by survey data.
 - Better diagnostics for explaining divergence between observed stock dynamics and model assumptions.
 - Management strategies that are more socially legible and ecologically robust.
 
@@ -28,11 +35,12 @@ Establish ethnofishecology as a field that treats cultural knowledge and fishing
 2. What validation pathways are appropriate for oral or practice-based knowledge?
 3. How should uncertainty from cultural data be propagated into assessments?
 4. How do governance systems adapt when ecological change breaks historical practice?
+5. Which community-defined performance metrics should sit alongside biological reference points in MSE?
 
 ## Position in the Book
 
-This concept note is a framing document for the larger manuscript. It sets out a research program rather than a settled discipline, and it is most useful when read alongside the historical and management chapters that follow.
+This concept note frames the chapters that follow. The foundations and emergence chapters (1–2) establish the field's intellectual basis. The integration chapter (3) links it to human ecology and ethnoecology. The pre-industrial and modern management chapters (4–5) supply historical and contemporary evidence. The non-commercial chapter (6) covers subsistence, sustenance, and recreational fisheries. The ethics chapter (7) sets the governance expectations. The methods chapter (8) operationalizes the research agenda above. The futures chapter (9) looks ahead.
 
 ## Limitations
 
-This concept note is a framing document. It does not introduce new empirical data and should be read as a proposal for synthesis and method development rather than as a claim that ethnofishecology is already a fully institutionalized field.
+This concept note introduces no new empirical data and should be read as a proposal for synthesis and method development rather than a claim that ethnofishecology is already a fully institutionalized field.

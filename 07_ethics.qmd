@@ -1,0 +1,75 @@
+---
+title: "Research Ethics and Data Sovereignty"
+---
+
+## Introduction
+
+A book that argues for integrating cultural evidence into fisheries science must also set out the ethics that make such integration legitimate. Without them, "integration" easily slides into extraction: communities contribute knowledge, researchers publish and move on, and the benefits flow away from the people whose observations made the work possible. This chapter sets the ethical and governance expectations that the methods in Chapter 8 are meant to follow.
+
+::: {.callout-important}
+## A single test
+
+If a community cannot see the results of the research, correct its interpretations, and benefit from its use, the research is not ethnofishecology in the sense this book defends.
+:::
+
+## Core Principles
+
+Two sets of principles — CARE and FAIR — together frame the practice this book endorses.
+
+The **CARE Principles for Indigenous Data Governance** [@carroll2020care] foreground **C**ollective benefit, **A**uthority to control, **R**esponsibility, and **E**thics. CARE is the counterweight to a technical-first view of open data: it insists that data about or derived from Indigenous communities carries obligations that do not disappear once a dataset is anonymized.
+
+The **FAIR Principles** [@wilkinson2016fair] foreground **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable data. FAIR is important for scientific practice but is insufficient on its own; a dataset can be FAIR and still violate CARE. Ethnofishecology needs both.
+
+The combination is not contradictory. FAIR describes how data should behave once it is shared; CARE determines whether, how, and on whose terms it should be shared in the first place.
+
+## Consent, Attribution, and Benefit-Sharing
+
+Three practical expectations follow from CARE and FAIR together.
+
+**Consent is ongoing, not one-shot.** A community's agreement to participate at the outset does not authorize every downstream use. Consent should be renewed when new analyses, new publications, or new data products are proposed. This is especially important in fisheries work because data often moves from one stock assessment cycle to the next without fresh review.
+
+**Attribution is specific, not generic.** "Local knowledge" as a bulk credit is insufficient. Where a prior, parameter, or scenario in an assessment reflects a specific community's contribution, that attribution belongs in the methods section and, where appropriate, in authorship.
+
+**Benefit-sharing is tangible.** Benefits take many forms — training, co-authorship, funding, data access, analytical products, employment, or material compensation — and the appropriate mix is negotiated, not assumed. A strong default is that the community receives, at minimum, the deliverables produced from its contribution in a usable format before external publication.
+
+## Institutional Considerations
+
+Most fisheries agencies, universities, and NGOs have institutional review structures, and those structures matter. IRB or ethics committee review should be sought early, and the review should address community-level risk as well as individual-level risk. For federal U.S. work, tribal consultation requirements under relevant trust responsibilities and government-to-government protocols apply regardless of whether the project is classified as "research." For international work, national regulations, regional agreements, and community-level protocols typically all need to be respected, and the strictest applies.
+
+Beyond regulation, three institutional practices help in practice. First, a written data-sharing agreement between the research team and the community specifies ownership, use, return, and modification rights. Second, a co-authored data management plan describes how data will be stored, who holds the keys, and under what conditions access can change. Third, a named point of contact on both sides carries the agreement forward across staff turnover, which is often where these arrangements collapse.
+
+## Avoiding Knowledge Extraction
+
+Five patterns recur in extractive research, and each has a counter-practice that is cheap to adopt.
+
+**Pattern 1: interview and leave.** A team arrives, records interviews, and departs. **Counter-practice:** build return visits, interim reports, and co-presentation into the project plan from the start, not as goodwill at the end.
+
+**Pattern 2: paraphrase into invisibility.** Community contributions are summarized and paraphrased until the source is no longer recoverable. **Counter-practice:** quote where consent permits; cite where it does not; maintain a provenance record for every community-sourced input.
+
+**Pattern 3: parameter without person.** A prior or parameter is reported without any trace of whose observation informed it. **Counter-practice:** maintain an elicitation record (see Chapter 8) that makes the source auditable even when individual identity is withheld.
+
+**Pattern 4: consent creep.** Consent given for one study is treated as consent for all downstream uses. **Counter-practice:** treat each new use — reanalysis, teaching, follow-up publication — as a fresh request unless a written agreement anticipates it.
+
+**Pattern 5: disappearing benefits.** Benefits promised in the proposal do not materialize because they were never operationalized. **Counter-practice:** put benefits on the project timeline and budget, with named deliverables and dates.
+
+## A Minimum Standard for Ethnofishecological Projects
+
+The following minimum standard is proposed for ethnofishecological work in this book. Projects that cannot meet it should not claim to be ethnofishecology in the sense defended here.
+
+- Written consent covering the specific use of the data, renewable as the scope changes.
+- Named community partners with defined roles and decision rights.
+- A data-sharing agreement specifying custody, access, and modification.
+- Attribution at the level of the input (prior, parameter, scenario), not only at the project level.
+- Scheduled return of deliverables — reports, datasets, analytical products — to the community in usable form.
+- Budget lines for benefit-sharing, translation, and return visits.
+- A documented path for community review of results before external publication, with enough time for substantive comment.
+- Compliance with CARE principles for any Indigenous-sourced material.
+- An archival plan that respects the community's preferences about whether, where, and how the data is retained.
+
+## Working Across Jurisdictions
+
+Fisheries work often crosses jurisdictions, and ethics must follow. A project that collects data in one country and analyzes it in another, or that combines tribal, state, and federal data, inherits obligations from each. The practical rule is that the strictest applicable standard governs, and that when doubt exists, the community's stated preference is the tiebreaker. This is not always convenient. It is, however, what distinguishes ethnofishecology as a disciplined practice from opportunistic data reuse.
+
+## Conclusion
+
+Ethics is not a wrapper around ethnofishecology; it is part of the method. The steps in this chapter — CARE plus FAIR, ongoing consent, specific attribution, tangible benefit-sharing, institutional agreements, and a minimum standard — are what allow the quantitative integration in Chapter 8 to be legitimate rather than extractive. A fisheries science that claims to take local and traditional knowledge seriously has to take its ethics seriously too, all the way to the model output and back.

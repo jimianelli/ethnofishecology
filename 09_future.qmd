@@ -1,0 +1,37 @@
+---
+title: "Future Directions in Ethnofishecology"
+---
+
+## Introduction
+
+As global fisheries face accelerating climate change, shifting species distributions, social inequities, and rapid technological change, ethnofishecology needs to evolve beyond synthesis into durable research practice. The next stage of the field will be defined less by naming the problem and more by building repeatable methods for integrating cultural evidence into ecological assessment and governance.
+
+## Methods and Evidence
+
+Future-oriented work in ethnofishecology depends on horizon scanning, participatory modelling, mixed-methods synthesis across regions, and better protocols for validation. The central challenge is methodological: communities, scientists, and managers need ways to compare knowledge systems, represent uncertainty, and use qualitative insight without flattening it into false precision [@schmidt2023]. Chapter 8 sets out the methodological scaffolding; this chapter asks where that scaffolding will be pushed hardest over the next decade.
+
+## Key Themes
+
+- **Climate change and shifting stocks.** Climate-driven shifts in distribution, productivity, and seasonality will continue to destabilize fishing practice and management assumptions. NOAA's HI-EBFM strategy treats climate adaptation, changing stock geography, and community resilience as linked research problems rather than separate domains [@noaa2021hiebfm]. Ethnofishecology contributes by documenting how communities perceive and interpret these shifts, often earlier and with different framings than survey-based monitoring.
+- **Social justice and equity.** Future research needs to examine who benefits, who bears risk, and whose knowledge is legible in management systems. That includes Indigenous peoples, small-scale fishers, women, youth, and communities whose fishing is subsistence-oriented or culturally important but weakly represented in commercial statistics. Equity is not a peripheral concern; it determines which data enter models and which decisions are accepted as legitimate [@mansfield2024].
+- **Participatory modelling and co-design.** Participatory modelling is likely to become one of the field's most useful tools because it lets knowledge holders shape scenarios, parameters, and interpretations. The payoff is not only better participation; it is more credible model structure and clearer discussion of assumptions [@punt2016].
+- **Data integration and technological innovation.** Remote sensing, digital trace data, machine learning, and genomics will expand the range of usable fisheries data. Ethnofishecology should engage these tools selectively, using them to connect ecological, social, and cultural signals rather than assuming that more data automatically resolves interpretive conflict.
+- **Urban and recreational fisheries.** Urban shore fishing, charter fisheries, and recreational harvest are increasingly important arenas for identity, food access, and local ecological knowledge. These fisheries are visible to communities but thinly represented in conventional management narratives, which makes them promising areas for future ethnofishecological work [@lynch2024].
+
+## Research Agenda for the Next Decade
+
+- Build and validate elicitation protocols that translate fishers' ecological knowledge into priors usable in stock assessment and MSE (see Chapter 8).
+- Develop community-level indicators of resilience that can sit alongside biological reference points in HI-EBFM scenarios.
+- Expand the evidence base on subsistence and sustenance fisheries in regions where commercial statistics dominate policy attention.
+- Establish shared standards for documenting, storing, and citing community knowledge that respect CARE and FAIR principles (see Chapter 7).
+- Test whether participatory scenarios improve policy uptake relative to expert-only MSE, using pre-registered comparisons across case studies.
+
+::: {.callout-tip}
+## What success looks like in ten years
+
+A decade from now, an ethnofishecological contribution should be recognizable by three markers: a documented elicitation record, a reported sensitivity analysis showing how much the cultural input moved the result, and a community-endorsed summary of the decision relevance. If all three are present, the field has matured.
+:::
+
+## Conclusion
+
+The future of ethnofishecology lies in its ability to produce methods that are both interdisciplinary and disciplined. If the field can make cultural evidence comparable, transparent, and decision-relevant without stripping away context, it can contribute meaningfully to climate adaptation, equity-focused governance, and more realistic fisheries models.
